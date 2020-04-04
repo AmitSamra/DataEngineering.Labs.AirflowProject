@@ -8,6 +8,7 @@ import requests
 import os
 
 
+
 default_args = {
 	'owner':'Mr. Amit',
 	'start_date': datetime.now(),
@@ -20,7 +21,7 @@ dag = DAG(
 	'oil',
 	default_args = default_args,
 	description = 'Oily Money',
-	#schedule_interval=timedelta(hours=1)
+	schedule_interval="0 3 * * *"
 	)
 
 
@@ -140,7 +141,7 @@ def get_hxpi():
 	Gets Houston House Price Index value by quarter
 	1995 Q1 = 100
 	"""
-	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=968&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=CASTHPI&scale=left&cosd=1975-01-01&coed=2019-10-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Quarterly&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-03&revision_date=2020-04-03&nd=1975-01-01'
+	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=1168&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=ATNHPIUS26420Q&scale=left&cosd=1976-01-01&coed=2019-10-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Quarterly&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-04&revision_date=2020-04-04&nd=1976-01-01'
 	response = requests.get(url)
 	with open('HXPI.csv', 'wb') as f:
 		f.write(response.content)
@@ -229,7 +230,7 @@ t11 = PythonOperator(
 
 def get_usgdp():
 	"""
-	Gets US GDP quarterly
+	#Gets US GDP quarterly
 	"""
 	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=968&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=GDPC1&scale=left&cosd=1947-01-01&coed=2019-10-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Quarterly&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-03&revision_date=2020-04-03&nd=1947-01-01'
 	response = requests.get(url)
@@ -247,7 +248,7 @@ t12 = PythonOperator(
 
 def get_txgdp():
 	"""
-	Gets TX GDP annual
+	#Gets TX GDP annual
 	"""
 	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=968&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=TXRGSP&scale=left&cosd=1997-01-01&coed=2018-01-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Annual&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-03&revision_date=2020-04-03&nd=1997-01-01'
 	response = requests.get(url)
@@ -265,7 +266,7 @@ t13 = PythonOperator(
 
 def get_cagdp():
 	"""
-	Gets CA GDP annual
+	#Gets CA GDP annual
 	"""
 	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=968&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=CARGSP&scale=left&cosd=1997-01-01&coed=2018-01-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Annual&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-03&revision_date=2020-04-03&nd=1997-01-01'
 	response = requests.get(url)
@@ -283,7 +284,7 @@ t14 = PythonOperator(
 
 def get_wtipi():
 	"""
-	Gets spot WTI crude oil price monthly
+	#Gets spot WTI crude oil price monthly
 	"""
 	url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?bgcolor=%23e1e9f0&chart_type=line&drp=0&fo=open%20sans&graph_bgcolor=%23ffffff&height=450&mode=fred&recession_bars=on&txtcolor=%23444444&ts=12&tts=12&width=968&nt=0&thu=0&trc=0&show_legend=yes&show_axis_titles=yes&show_tooltip=yes&id=WTISPLC&scale=left&cosd=1946-01-01&coed=2020-02-01&line_color=%234572a7&link_values=false&line_style=solid&mark_type=none&mw=3&lw=2&ost=-99999&oet=99999&mma=0&fml=a&fq=Monthly&fam=avg&fgst=lin&fgsnd=2009-06-01&line_index=1&transformation=lin&vintage_date=2020-04-03&revision_date=2020-04-03&nd=1946-01-01'
 	response = requests.get(url)
@@ -298,24 +299,7 @@ t15 = PythonOperator(
 	dag = dag,
 	)
 
-
-def read_json(file_path):
-	file_path = 'http://api.eia.gov/series/?api_key=f808545279092f7505cb23185ce4123e&series_id=PET.MCRFPUS2.M'
-	with open(file_path, 'r')
-
 t1 >> [t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12, t13, t14, t15]
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
