@@ -6,12 +6,13 @@ from datetime import timedelta, datetime
 import csv
 import requests
 import os
+from airflow.operators.postgres_operator import PostgresOperator
 
 
 default_args = {
 	'owner':'Mr. Amit',
 	'start_date': datetime.now(),
-	'retries':5,
+	'retries':0,
 	'retry_delay':timedelta(minutes=1)
 }
 
@@ -41,3 +42,10 @@ t1 = PythonOperator(
 	dag = dag,
 	)
 
+
+task = PostgresOperator(
+task_id='import_to_postgres',
+postgres_conn_id='postgres_amazon',
+sql="COPY amazon.amazon_purchases FROM '/Users/asamra/dev/DataEngineering.Labs.AirflowProject/raw_data/amazon_purchases.csv' DELIMITER ',' CSV HEADER;",
+dag=dag,
+)
