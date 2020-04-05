@@ -18,9 +18,9 @@ default_args = {
 
 
 dag = DAG(
-	'amazon2',
+	'amazon',
 	default_args = default_args,
-	description = 'Amazon2',
+	description = 'amazon',
 	#schedule_interval=timedelta(hours=1)
 	)
 
@@ -46,7 +46,7 @@ t1 = PythonOperator(
 t2 = PostgresOperator(
 	task_id = 'create_table',
 	postgres_conn_id = 'postgres_amazon',
-	sql = '''CREATE TABLE amazon.amazon_purchases_2(
+	sql = '''CREATE TABLE amazon.amazon_purchases(
 		order_id integer primary key, 
 		order_date date,
 		category varchar(255),
