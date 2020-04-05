@@ -18,9 +18,9 @@ default_args = {
 
 
 dag = DAG(
-	'amazon',
+	'amazon2',
 	default_args = default_args,
-	description = 'Amazon',
+	description = 'Amazon2',
 	#schedule_interval=timedelta(hours=1)
 	)
 
@@ -44,10 +44,33 @@ t1 = PythonOperator(
 
 
 t2 = PostgresOperator(
-	task_id='import_to_postgres',
-	postgres_conn_id='postgres_amazon',
-	sql="COPY amazon.amazon_purchases FROM '/Users/asamra/dev/DataEngineering.Labs.AirflowProject/data_amazon/amazon_purchases.csv' DELIMITER ',' CSV HEADER;",
-	dag=dag,
+	task_id = 'create_table',
+	postgres_conn_id = 'postgres_amazon',
+	sql = '''CREATE TABLE amazon.amazon_purchases_2(
+		order_id integer primary key, 
+		order_date date,
+		category varchar(255),
+		website varchar(255),
+		condition varchar(255),	
+		seller varchar(255),
+		list_price_per_unit numeric,
+		purchase_price_per_unit numeric,
+		quantity integer,
+		shipment_date date,	
+		carrier_name varchar(255),
+		item_subtotal numeric,
+		item_subtotal_tax numeric,
+		item_total numeric);''',
+	dag = dag,
 	)
 
-t1 >> [t2]
+
+t3 = PostgresOperator(
+	task_id = 'import_to_postgres',
+	postgres_conn_id = 'postgres_amazon',
+	sql = "COPY amazon.amazon_purchases FROM '/Users/asamra/dev/DataEngineering.Labs.AirflowProject/data_amazon/amazon_purchases.csv' DELIMITER ',' CSV HEADER;",
+	dag = dag,
+	)
+
+
+t1 >> [t2, t3]
