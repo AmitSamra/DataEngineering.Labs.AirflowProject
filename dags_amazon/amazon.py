@@ -43,9 +43,11 @@ t1 = PythonOperator(
 	)
 
 
-task = PostgresOperator(
-task_id='import_to_postgres',
-postgres_conn_id='postgres_amazon',
-sql="COPY amazon.amazon_purchases FROM '/Users/asamra/dev/DataEngineering.Labs.AirflowProject/raw_data/amazon_purchases.csv' DELIMITER ',' CSV HEADER;",
-dag=dag,
-)
+t2 = PostgresOperator(
+	task_id='import_to_postgres',
+	postgres_conn_id='postgres_amazon',
+	sql="COPY amazon.amazon_purchases FROM '/Users/asamra/dev/DataEngineering.Labs.AirflowProject/data_amazon/amazon_purchases.csv' DELIMITER ',' CSV HEADER;",
+	dag=dag,
+	)
+
+t1 >> [t2]
