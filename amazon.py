@@ -13,7 +13,8 @@ import pandas as pd
 
 default_args = {
 	'owner':'Mr. Amit',
-	'start_date': datetime(2020,4,5,0),
+	#'start_date': datetime(2020,4,5,0),
+	'start_date': datetime.now(),
 	'retries':0,
 	'retry_delay':timedelta(minutes=1)
 }
@@ -23,7 +24,7 @@ dag = DAG(
 	'amazon',
 	default_args = default_args,
 	description = 'amazon',
-	schedule_interval = timedelta(hours=1),
+	#schedule_interval = timedelta(hours=1),
 	catchup = False,
 	)
 
@@ -47,7 +48,11 @@ t1 = PythonOperator(
 
 def etl_csv():
 	"""
-	Cleans CSV to eliminate NaN and drop certain rows where item_total = 0
+	Cleans CSV:
+	Eliminates NaN 
+	Replaces $ and , in currency columns
+	Drop certain rows where item_total = 0
+	Exports csv as amazon_purchases_2.csv which will be read into Postgres database
 	"""
 	df = pd.read_csv('amazon_purchases.csv')
 	df.columns = ['order_id', 'order_date', 'category', 'website', 'condition', 'seller', 'list_price_per_unit', 'purchase_price_per_unit', 'quantity', 'shipment_date', 'carrier_name', 'item_subtotal', 'item_subtotal_tax','item_total']
@@ -55,9 +60,6 @@ def etl_csv():
 	df.condition.fillna('', inplace = True)
 	df.carrier_name.fillna('', inplace = True)
 	df.shipment_date.fillna('', inplace = True)
-	df = df[df.list_price_per_unit != 0]
-	df = df[df.purchase_price_per_unit != 0]
-	df = df[df.item_total != 0]
 	df['list_price_per_unit'] = df['list_price_per_unit'].str.replace('$','').str.replace(',','')
 	df['purchase_price_per_unit'] = df['purchase_price_per_unit'].str.replace('$','').str.replace(',','')
 	df['item_subtotal'] = df['item_subtotal'].str.replace('$','').str.replace(',','')
@@ -68,6 +70,10 @@ def etl_csv():
 	df['item_subtotal'] = df['item_subtotal'].astype(float)
 	df['item_subtotal_tax'] = df['item_subtotal_tax'].astype(float)
 	df['item_total'] = df['item_total'].astype(float)
+	df = df[df.list_price_per_unit != 0]
+	df = df[df.purchase_price_per_unit != 0]
+	df = df[df.item_subtotal != 0]
+	df = df[df.item_total != 0]
 	df.to_csv('amazon_purchases_2.csv', index=False)
 
 
