@@ -2,4 +2,4 @@
 
 ![](/pipeline.png)
 
-My goal is to determine if the recent oil boom in the United States, which made the US the largest oil producer in the world, has had an impact on house prices in Texas. I plan to compare house price appreciation in Texas with California and the US in general to see if appreciation has outpaced CA and the US overall.
+Amazon provides a tool that allows you to view reports on your order history. In this project, I will search my Amazon order history to determine if there are any trends. For example, is there any seasonality in my purchases by month of the year or day of the month? How much do I spend on electronic versus non-electronic items? What kind of shipping services does Amazon use for my oders? Are the majority of the items that buy in a certain price range? I hope to answer questions like these. 
