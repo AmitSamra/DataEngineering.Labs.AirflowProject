@@ -1,0 +1,979 @@
+﻿Order ID,Order Date,Category,Website,Condition,Seller,List Price Per Unit,Purchase Price Per Unit,Quantity,Shipment Date,Carrier Name & Tracking Number,Item Subtotal,Item Subtotal Tax,Item Total
+1,2/19/08,ABIS_BOOK,Amazon.com,,Amazon.com,$29.99 ,$19.79 ,1,2/25/08,USPS,$19.79 ,$0.00 ,$19.79 
+2,2/19/08,ABIS_BOOK,Amazon.com,,Amazon.com,$27.95 ,$18.45 ,1,2/25/08,USPS,$18.45 ,$0.00 ,$18.45 
+3,6/3/08,ABIS_BOOK,Amazon.com,,Amazon.com,$34.99 ,$23.09 ,1,6/4/08,UPS,$23.09 ,$0.00 ,$23.09 
+4,11/6/08,BEAUTY,Amazon.com,,SimplyBeautiful,$6.99 ,$9.39 ,1,11/7/08,USPS,$9.39 ,$0.00 ,$9.39 
+5,11/6/08,HAIR_STYLING_AGENT,Amazon.com,,SimplyBeautiful,$10.99 ,$7.99 ,1,11/7/08,USPS,$7.99 ,$0.00 ,$7.99 
+6,11/6/08,HAIR_STYLING_AGENT,Amazon.com,,SimplyBeautiful,$6.99 ,$5.49 ,1,11/7/08,USPS,$5.49 ,$0.00 ,$5.49 
+7,11/6/08,,Amazon.com,,SimplyBeautiful,$6.99 ,$6.99 ,1,11/7/08,USPS,$6.99 ,$0.00 ,$6.99 
+8,12/13/08,ABIS_BOOK,Amazon.com,,Amazon.com,$16.95 ,$10.33 ,1,12/14/08,USPS,$10.33 ,$0.00 ,$10.33 
+9,12/13/08,ABIS_BOOK,Amazon.com,,Amazon.com,$23.95 ,$15.57 ,1,12/14/08,USPS,$15.57 ,$0.00 ,$15.57 
+10,7/18/09,HEALTH_PERSONAL_CARE,Amazon.com,new,Nature and Herbs,$15.99 ,$8.99 ,3,7/19/09,USPS,$26.97 ,$0.00 ,$26.97 
+11,8/14/09,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Amazon.com,$99.99 ,$79.99 ,1,8/16/09,FEDEX,$79.99 ,$0.00 ,$79.99 
+12,9/17/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$24.95 ,$16.47 ,1,9/17/09,UPS,$16.47 ,$0.00 ,$16.47 
+13,9/18/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$22.00 ,$12.87 ,1,9/21/09,UPS,$12.87 ,$0.00 ,$12.87 
+14,9/18/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$25.00 ,$16.50 ,1,9/21/09,UPS,$16.50 ,$0.00 ,$16.50 
+15,11/5/09,,Amazon.com,new,Amazon.com,$37.95 ,$32.53 ,1,11/6/09,USPS,$32.53 ,$0.00 ,$32.53 
+16,11/18/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$16.95 ,$13.68 ,1,11/18/09,UPS,$13.68 ,$0.00 ,$13.68 
+17,11/19/09,ABIS_BOOK,Amazon.com,new,tabletopart,$19.74 ,$19.74 ,1,11/20/09,UPS MI,$19.74 ,$0.00 ,$19.74 
+18,11/20/09,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$47.99 ,$29.24 ,1,11/20/09,USPS,$29.24 ,$0.00 ,$29.24 
+19,11/20/09,,Amazon.com,new,"Hutsell Sports, LLC",$16.95 ,$16.95 ,1,11/20/09,UPS,$16.95 ,$0.00 ,$16.95 
+20,12/15/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$29.95 ,$19.77 ,1,12/16/09,UPS,$19.77 ,$0.00 ,$19.77 
+21,12/15/09,ABIS_BOOK,Amazon.com,new,Amazon.com,$36.95 ,$24.39 ,1,12/16/09,UPS,$24.39 ,$0.00 ,$24.39 
+22,12/21/09,,Amazon.com,new,Super Safety Razors,$37.77 ,$37.77 ,1,12/21/09,UPS,$37.77 ,$0.00 ,$37.77 
+23,12/28/09,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$19.99 ,$19.99 ,1,12/29/09,UPS,$19.99 ,$0.00 ,$19.99 
+24,12/30/09,COMPUTER,Amazon.com,new,SquareTrade,$99.99 ,$89.99 ,1,12/30/09,,$89.99 ,$0.00 ,$89.99 
+25,1/27/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$15.00 ,$12.82 ,1,1/29/10,USPS,$12.82 ,$0.00 ,$12.82 
+26,1/27/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$19.95 ,$13.57 ,1,1/29/10,USPS,$13.57 ,$0.00 ,$13.57 
+27,2/11/10,BEAUTY,Amazon.com,new,SB Natural Products,$10.19 ,$11.41 ,1,2/12/10,USPS,$11.41 ,$0.00 ,$11.41 
+28,2/11/10,BEAUTY,Amazon.com,new,Wellica Inc,$6.95 ,$9.39 ,1,2/13/10,USPS,$9.39 ,$0.00 ,$9.39 
+29,2/11/10,BEAUTY,Amazon.com,new,Wellica Inc,$8.39 ,$7.99 ,2,2/13/10,USPS,$15.98 ,$0.00 ,$15.98 
+30,2/19/10,BATTERY,Amazon.com,new,Amazon.com,$4.99 ,$3.19 ,1,2/21/10,USPS,$3.19 ,$0.00 ,$3.19 
+31,2/19/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$45.00 ,$24.99 ,1,2/21/10,USPS,$24.99 ,$0.00 ,$24.99 
+32,2/21/10,HEALTH_PERSONAL_CARE,Amazon.com,new,Hahnemann Laboratories,$25.95 ,$25.95 ,1,2/24/10,USPS,$25.95 ,$0.00 ,$25.95 
+33,2/28/10,MULTIFUNCTION_DEVICE,Amazon.com,new,Amazon.com,$299.99 ,$269.95 ,1,3/3/10,FEDEX,$269.95 ,$0.00 ,$269.95 
+34,3/2/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$80.00 ,$50.40 ,1,3/5/10,USPS,$50.40 ,$0.00 ,$50.40 
+35,3/2/10,,Amazon.com,new,Amazon.com,$8.35 ,$8.35 ,1,3/5/10,USPS,$8.35 ,$0.00 ,$8.35 
+36,3/26/10,OUTDOOR_LIVING,Amazon.com,new,Amazon.com,$15.15 ,$5.19 ,1,3/27/10,USPS,$5.19 ,$0.00 ,$5.19 
+37,3/26/10,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$20.67 ,$17.74 ,1,3/27/10,USPS,$17.74 ,$0.00 ,$17.74 
+38,3/26/10,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$1.99 ,$1.99 ,1,3/29/10,USPS,$1.99 ,$0.00 ,$1.99 
+39,3/26/10,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$1.99 ,$1.99 ,1,3/29/10,USPS,$1.99 ,$0.00 ,$1.99 
+40,4/26/10,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$28.99 ,$14.99 ,1,4/28/10,ONTRAC,$14.99 ,$0.00 ,$14.99 
+41,4/26/10,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$92.99 ,$69.99 ,1,4/28/10,ONTRAC,$69.99 ,$0.00 ,$69.99 
+42,4/26/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$3.64 ,$3.64 ,1,5/3/10,USPS,$3.64 ,$0.00 ,$3.64 
+43,4/29/10,CABLE_OR_ADAPTER,Amazon.com,new,BarleyBlends,$9.69 ,$9.69 ,1,4/30/10,ONTRAC,$9.69 ,$0.00 ,$9.69 
+44,5/9/10,,Amazon.com,new,,$20.00 ,$20.00 ,1,5/17/10,UPS,$20.00 ,$0.00 ,$20.00 
+45,5/9/10,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$7.80 ,$7.80 ,1,5/12/10,ONTRAC,$7.80 ,$0.00 ,$7.80 
+46,5/9/10,GROCERY,Amazon.com,new,Black Tie Mercantile,$14.99 ,$10.01 ,1,5/12/10,ONTRAC,$10.01 ,$0.00 ,$10.01 
+47,5/9/10,HEALTH_PERSONAL_CARE,Amazon.com,new,Maple Leaf Nutrition,$19.99 ,$12.59 ,1,5/12/10,USPS,$12.59 ,$0.00 ,$12.59 
+48,5/27/10,BEAUTY,Amazon.com,new,Amazon.com,$38.99 ,$29.99 ,1,5/27/10,USPS,$29.99 ,$0.00 ,$29.99 
+49,5/27/10,HEALTH_PERSONAL_CARE,Amazon.com,new,AmeriMed Direct,$12.99 ,$6.49 ,1,5/27/10,USPS,$6.49 ,$0.00 ,$6.49 
+50,6/1/10,HEALTH_PERSONAL_CARE,Amazon.com,new,VapeNow,$9.99 ,$9.99 ,1,6/2/10,USPS,$9.99 ,$0.00 ,$9.99 
+51,6/1/10,BEAUTY,Amazon.com,new,SB Natural Products,$7.99 ,$6.45 ,2,6/3/10,USPS,$12.90 ,$0.00 ,$12.90 
+52,6/1/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$4.86 ,$4.86 ,2,6/5/10,USPS,$9.72 ,$0.00 ,$9.72 
+53,6/1/10,HOME,Amazon.com,new,Amazon.com,$13.99 ,$9.50 ,1,6/6/10,USPS,$9.50 ,$0.00 ,$9.50 
+54,6/23/10,COMPUTER_INPUT_DEVICE,Amazon.com,new,365USA,$59.99 ,$20.95 ,1,6/23/10,UPS,$20.95 ,$0.00 ,$20.95 
+55,6/26/10,,Amazon.com,new,Wellica Inc,$10.95 ,$9.99 ,1,6/26/10,USPS,$9.99 ,$0.00 ,$9.99 
+56,6/26/10,HEALTH_PERSONAL_CARE,Amazon.com,new,DAB Unlimited,$27.98 ,$13.25 ,1,6/30/10,USPS,$13.25 ,$0.00 ,$13.25 
+57,6/26/10,,Amazon.com,new,Wellica Inc,$8.89 ,$8.29 ,1,6/26/10,USPS,$8.29 ,$0.00 ,$8.29 
+58,7/11/10,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$99.99 ,$89.99 ,1,7/14/10,ONTRAC,$89.99 ,$0.00 ,$89.99 
+59,7/11/10,BEAUTY,Amazon.com,new,SB Natural Products,$7.99 ,$5.76 ,3,7/14/10,ONTRAC,$17.28 ,$0.00 ,$17.28 
+60,7/25/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$4.86 ,$4.86 ,1,7/29/10,USPS,$4.86 ,$0.00 ,$4.86 
+61,7/25/10,BATTERY,Amazon.com,new,MYBATTERYSUPPLIER,$16.99 ,$13.45 ,1,7/29/10,USPS,$13.45 ,$0.00 ,$13.45 
+62,7/25/10,KEYBOARDS,Amazon.com,new,Amazon.com,$28.50 ,$14.82 ,1,7/29/10,USPS,$14.82 ,$0.00 ,$14.82 
+63,7/25/10,COMPUTER_ADD_ON,Amazon.com,new,Amazon.com,$7.80 ,$7.80 ,1,7/29/10,USPS,$7.80 ,$0.00 ,$7.80 
+64,7/29/10,PERSONAL_CARE_APPLIANCE,Amazon.com,new,SafetyRazorPlace,$6.00 ,$6.79 ,1,7/29/10,USPS,$6.79 ,$0.00 ,$6.79 
+65,7/29/10,HEALTH_PERSONAL_CARE,Amazon.com,new,SafetyRazorPlace,$8.99 ,$8.99 ,1,7/29/10,USPS,$8.99 ,$0.00 ,$8.99 
+66,7/29/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$4.86 ,$4.86 ,1,8/1/10,ONTRAC,$4.86 ,$0.00 ,$4.86 
+67,7/29/10,BEAUTY,Amazon.com,new,Amazon.com,$21.38 ,$14.68 ,2,8/1/10,ONTRAC,$29.36 ,$0.00 ,$29.36 
+68,7/30/10,,Amazon.com,new,Importer520  ( USA Seller ),$10.99 ,$2.47 ,1,7/30/10,USPS,$2.47 ,$0.00 ,$2.47 
+69,8/2/10,,Amazon.com,new,MYBATTERYSUPPLIER,$2.45 ,$2.45 ,1,8/4/10,UPS,$2.45 ,$0.00 ,$2.45 
+70,8/4/10,KITCHEN,Amazon.com,,Amazon.com,$12.99 ,$10.98 ,1,8/8/10,ONTRAC,$10.98 ,$0.00 ,$10.98 
+71,8/4/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$17.95 ,$11.97 ,1,8/8/10,ONTRAC,$11.97 ,$0.00 ,$11.97 
+72,8/4/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$39.95 ,$30.36 ,1,8/8/10,ONTRAC,$30.36 ,$0.00 ,$30.36 
+73,8/4/10,,Amazon.com,new,DAB Unlimited,$43.99 ,$19.90 ,1,8/8/10,ONTRAC,$19.90 ,$0.00 ,$19.90 
+74,8/5/10,NETWORKING_DEVICE,Amazon.com,new,Importer520  ( USA Seller ),$11.99 ,$11.99 ,1,8/6/10,UPS Mail Innovations,$11.99 ,$0.00 ,$11.99 
+75,8/14/10,BATTERY,Amazon.com,new,Pro Ebiz,$39.99 ,$8.15 ,1,8/15/10,USPS,$8.15 ,$0.00 ,$8.15 
+76,8/14/10,FLASH_MEMORY,Amazon.com,new,BoBotechnic,$38.99 ,$18.77 ,1,8/17/10,USPS,$18.77 ,$0.00 ,$18.77 
+77,8/15/10,HEALTH_PERSONAL_CARE,Amazon.com,new,The Vitamin Shoppe,$17.79 ,$11.93 ,1,8/15/10,Mail Innovations,$11.93 ,$1.04 ,$12.97 
+78,8/30/10,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazing Deals Online,$59.99 ,$22.43 ,1,8/31/10,FEDEX,$22.43 ,$0.00 ,$22.43 
+79,8/30/10,,Amazon.com,new,Amazon.com,$7.99 ,$7.99 ,1,8/31/10,UPS,$7.99 ,$0.00 ,$7.99 
+80,8/30/10,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$749.99 ,$722.02 ,1,8/31/10,UPS,$722.02 ,$0.00 ,$722.02 
+81,9/11/10,MEMORY_READER,Amazon.com,new,BestDealUSA,$14.99 ,$2.09 ,1,9/13/10,USPS,$2.09 ,$0.00 ,$2.09 
+82,9/19/10,AMAZON_BOOK_READER,Amazon.com,new,Amazon.com,$189.00 ,$189.00 ,1,9/23/10,UPS,$189.00 ,$0.00 ,$189.00 
+83,9/24/10,,Amazon.com,new,,$29.95 ,$0.01 ,1,9/24/10,USPS,$0.01 ,$0.00 ,$0.01 
+84,9/24/10,BEAUTY,Amazon.com,new,Amazon.com,$11.99 ,$8.57 ,1,9/24/10,UPS,$8.57 ,$0.00 ,$8.57 
+85,9/24/10,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$8.99 ,$8.98 ,0,,,$0.00 ,$0.00 ,$0.00 
+86,9/24/10,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$9.95 ,$9.95 ,1,10/6/10,USPS,$9.95 ,$0.00 ,$9.95 
+87,9/25/10,BEAUTY,Amazon.com,new,Amazon.com,$14.99 ,$13.76 ,2,9/29/10,UPS,$27.52 ,$0.00 ,$27.52 
+88,9/26/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$14.95 ,$13.45 ,1,9/27/10,UPS,$13.45 ,$0.00 ,$13.45 
+89,9/26/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$15.95 ,$10.85 ,1,9/30/10,USPS,$10.85 ,$0.00 ,$10.85 
+90,9/26/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$16.00 ,$10.88 ,1,9/30/10,USPS,$10.88 ,$0.00 ,$10.88 
+91,10/7/10,ABIS_BOOK,Amazon.com,used verygood,pumpstonbooks,$30.00 ,$7.99 ,1,10/8/10,USPS,$7.99 ,$0.00 ,$7.99 
+92,10/21/10,,Amazon.com,new,SB Natural Products,$3.71 ,$3.71 ,1,10/22/10,USPS,$3.71 ,$0.00 ,$3.71 
+93,10/21/10,BEAUTY,Amazon.com,new,SB Natural Products,$7.99 ,$6.31 ,2,10/22/10,USPS,$12.62 ,$0.00 ,$12.62 
+94,10/21/10,BEAUTY,Amazon.com,new,The Vitamin Shoppe,$6.99 ,$4.59 ,1,10/22/10,Mail Innovations,$4.59 ,$0.40 ,$4.99 
+95,10/26/10,ABIS_BOOK,Amazon.com,new,Amazon.com,$193.00 ,$121.59 ,1,10/26/10,USPS,$121.59 ,$0.00 ,$121.59 
+96,10/29/10,FLASH_MEMORY,Amazon.com,new,Amazon.com,$26.99 ,$8.99 ,1,10/31/10,USPS,$8.99 ,$0.00 ,$8.99 
+97,10/29/10,FLASH_MEMORY,Amazon.com,new,Amazon.com,$36.99 ,$19.22 ,1,10/31/10,USPS,$19.22 ,$0.00 ,$19.22 
+98,10/29/10,TOOLS,Amazon.com,new,HTS USA,$12.95 ,$4.95 ,1,10/29/10,USPS,$4.95 ,$0.43 ,$5.38 
+99,11/2/10,PROFESSIONAL_HEALTHCARE,Amazon.com,new,HTS USA,$7.99 ,$6.88 ,1,11/3/10,USPS,$6.88 ,$0.60 ,$7.48 
+100,11/11/10,ELECTRONIC_CABLE,Amazon.com,new,ACC Stop,$39.99 ,$2.20 ,1,11/12/10,USPS,$2.20 ,$0.00 ,$2.20 
+101,11/18/10,RAM_MEMORY,Amazon.com,new,Amazon.com,$61.99 ,$47.99 ,1,11/22/10,USPS,$47.99 ,$0.00 ,$47.99 
+102,12/4/10,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$6.50 ,$6.50 ,1,12/6/10,USPS,$6.50 ,$0.00 ,$6.50 
+103,12/4/10,HEALTH_PERSONAL_CARE,Amazon.com,new,Wellica Inc,$8.99 ,$8.99 ,1,12/5/10,USPS,$8.99 ,$0.00 ,$8.99 
+104,12/4/10,KITCHEN,Amazon.com,new,Handy Housewares,$4.99 ,$4.99 ,2,12/5/10,USPS,$9.98 ,$0.00 ,$9.98 
+105,12/4/10,,Amazon.com,new,NutriPlusTea,$10.49 ,$7.38 ,1,12/6/10,USPS,$7.38 ,$0.00 ,$7.38 
+106,12/9/10,SEEDS_AND_PLANTS,Amazon.com,new,Cheap Seeds,$3.60 ,$3.60 ,2,12/10/10,USPS,$7.20 ,$0.00 ,$7.20 
+107,12/18/10,,Amazon.com,new,Amazon.com,$29.99 ,$25.25 ,1,12/21/10,UPS,$25.25 ,$0.00 ,$25.25 
+108,12/18/10,BEAUTY,Amazon.com,new,Wellica Inc,$7.99 ,$8.65 ,1,12/20/10,USPS,$8.65 ,$0.00 ,$8.65 
+109,1/21/11,CABLE_OR_ADAPTER,Amazon.com,new,WOWparts,$4.99 ,$2.46 ,1,1/21/11,USPS,$2.46 ,$0.00 ,$2.46 
+110,1/25/11,ABIS_GIFT_CARD,Amazon.com,,Amazon.com,"$5,000.00 ",$20.00 ,1,1/25/11,,$20.00 ,$0.00 ,$20.00 
+111,1/25/11,,Amazon.com,new,TheSmartDigital,$14.10 ,$14.10 ,1,1/27/11,ONTRAC,$14.10 ,$0.00 ,$14.10 
+112,1/25/11,INK_OR_TONER,Amazon.com,new,Amazon.com,$12.99 ,$11.99 ,1,1/27/11,ONTRAC,$11.99 ,$0.00 ,$11.99 
+113,1/25/11,COMPUTER,Amazon.com,new,Amazon.com,$129.99 ,$116.43 ,1,1/25/11,UPS,$116.43 ,$0.00 ,$116.43 
+114,2/5/11,RAM_MEMORY,Amazon.com,new,Amazon.com,$81.99 ,$68.99 ,1,2/8/11,USPS,$68.99 ,$0.00 ,$68.99 
+115,2/5/11,SOFTWARE,Amazon.com,new,,$69.95 ,$15.30 ,1,2/8/11,USPS,$15.30 ,$1.34 ,$16.64 
+116,2/5/11,,Amazon.com,new,Nutricity,$10.00 ,$11.17 ,1,2/11/11,USPS,$11.17 ,$0.00 ,$11.17 
+117,2/12/11,ABIS_BOOK,Amazon.com,new,Amazon.com,$24.95 ,$14.74 ,1,2/15/11,USPS,$14.74 ,$0.00 ,$14.74 
+118,2/12/11,ABIS_BOOK,Amazon.com,new,Amazon.com,$17.95 ,$10.97 ,1,2/15/11,USPS,$10.97 ,$0.00 ,$10.97 
+119,2/20/11,INK_OR_TONER,Amazon.com,new,Amazon.com,$47.99 ,$42.49 ,1,2/23/11,USPS,$42.49 ,$0.00 ,$42.49 
+120,2/20/11,INK_OR_TONER,Amazon.com,new,Amazon.com,$14.99 ,$13.99 ,1,2/23/11,USPS,$13.99 ,$0.00 ,$13.99 
+121,2/21/11,SURVEILANCE_SYSTEMS,Amazon.com,new,Creative Square,$85.39 ,$85.39 ,2,2/21/11,FEDEX,$170.78 ,$0.00 ,$170.78 
+122,2/22/11,SURVEILANCE_SYSTEMS,Amazon.com,new,Creative Square,$115.78 ,$115.78 ,1,2/23/11,ONTRAC,$115.78 ,$0.00 ,$115.78 
+123,2/23/11,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$199.95 ,$119.99 ,1,2/24/11,ONTRAC,$119.99 ,$0.00 ,$119.99 
+124,2/25/11,COMPUTER_INPUT_DEVICE,Amazon.com,new,J&R Music and Computer World,$14.95 ,$9.99 ,1,2/25/11,USPS,$9.99 ,$0.00 ,$9.99 
+125,2/25/11,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$49.68 ,$19.99 ,1,2/28/11,UPS,$19.99 ,$0.00 ,$19.99 
+126,2/26/11,SURVEILANCE_SYSTEMS,Amazon.com,new,Creative Square,$83.66 ,$83.66 ,1,2/27/11,ONTRAC,$83.66 ,$0.00 ,$83.66 
+127,2/27/11,RAM_MEMORY,Amazon.com,new,Amazon.com,$89.99 ,$79.99 ,1,2/28/11,ONTRAC,$79.99 ,$0.00 ,$79.99 
+128,2/27/11,,Amazon.com,new,Amazon.com,$129.00 ,$99.99 ,1,2/28/11,ONTRAC,$99.99 ,$0.00 ,$99.99 
+129,3/2/11,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$182.77 ,$99.99 ,1,3/3/11,ONTRAC,$99.99 ,$0.00 ,$99.99 
+130,3/3/11,SECURITY_CAMERA,Amazon.com,new,Thousandshores Inc,$90.09 ,$90.09 ,1,3/3/11,FEDEX,$90.09 ,$0.00 ,$90.09 
+131,3/10/11,SCANNER,Amazon.com,new,Amazon.com,$199.99 ,$199.99 ,1,3/11/11,UPS,$199.99 ,$0.00 ,$199.99 
+132,3/12/11,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$299.95 ,$199.99 ,1,3/14/11,UPS,$199.99 ,$0.00 ,$199.99 
+133,3/12/11,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$199.95 ,$154.49 ,1,3/14/11,UPS,$154.49 ,$0.00 ,$154.49 
+134,3/12/11,COMPUTER_INPUT_DEVICE,Amazon.com,new,Warehouseseller,$29.99 ,$7.99 ,1,3/14/11,UPS,$7.99 ,$0.00 ,$7.99 
+135,3/15/11,MONITOR,Amazon.com,new,Amazon.com,$169.99 ,$154.00 ,1,3/16/11,UPS,$154.00 ,$0.00 ,$154.00 
+136,3/24/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,VCT ELECTRONICS,$4.94 ,$4.94 ,1,3/24/11,ONTRAC,$4.94 ,$0.00 ,$4.94 
+137,3/24/11,COMPUTER_COMPONENT,Amazon.com,new,Instapark,$21.99 ,$16.70 ,1,3/24/11,ONTRAC,$16.70 ,$0.00 ,$16.70 
+138,3/25/11,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$749.00 ,$740.70 ,1,3/25/11,UPS,$740.70 ,$0.00 ,$740.70 
+139,3/25/11,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$11.99 ,$11.99 ,1,3/26/11,ONTRAC,$11.99 ,$0.00 ,$11.99 
+140,3/25/11,,Amazon.com,new,Amazon.com,$57.99 ,$42.79 ,1,3/26/11,ONTRAC,$42.79 ,$0.00 ,$42.79 
+141,3/26/11,COMPUTER_ADD_ON,Amazon.com,new,Amazon.com,$24.99 ,$15.26 ,1,3/27/11,ONTRAC,$15.26 ,$0.00 ,$15.26 
+142,3/26/11,OUTDOOR_LIVING,Amazon.com,new,Amazon.com,$9.99 ,$5.29 ,1,3/27/11,ONTRAC,$5.29 ,$0.00 ,$5.29 
+143,3/26/11,,Amazon.com,new,VCT ELECTRONICS,$3.75 ,$3.75 ,1,3/27/11,ONTRAC,$3.75 ,$0.00 ,$3.75 
+144,3/27/11,SURVEILANCE_SYSTEMS,Amazon.com,new,Creative Square,$99.99 ,$99.99 ,1,3/28/11,ONTRAC,$99.99 ,$0.00 ,$99.99 
+145,3/28/11,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$749.00 ,$709.00 ,1,3/29/11,UPS,$709.00 ,$0.00 ,$709.00 
+146,4/6/11,HEALTH_PERSONAL_CARE,Amazon.com,new,American Direct Wholesale,$3.59 ,$1.60 ,1,4/8/11,USPS,$1.60 ,$0.00 ,$1.60 
+147,4/9/11,FLASH_MEMORY,Amazon.com,new,Amazon.com,$43.00 ,$24.99 ,1,4/9/11,USPS,$24.99 ,$0.00 ,$24.99 
+148,4/9/11,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$6.50 ,$6.50 ,1,4/21/11,ONTRAC,$6.50 ,$0.00 ,$6.50 
+149,4/9/11,,Amazon.com,new,BarleyBlends,$0.89 ,$0.89 ,2,4/11/11,USPS,$1.78 ,$0.00 ,$1.78 
+150,4/11/11,KEYBOARDS,Amazon.com,new,Amazon.com,$79.99 ,$49.98 ,1,4/12/11,UPS,$49.98 ,$0.00 ,$49.98 
+151,4/17/11,SOCKSHOSIERY,Amazon.com,new,Sox Shop,$30.00 ,$30.00 ,1,4/18/11,UPS,$30.00 ,$0.00 ,$30.00 
+152,4/18/11,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$159.99 ,$119.99 ,1,4/19/11,ONTRAC,$119.99 ,$0.00 ,$119.99 
+153,4/24/11,,Amazon.com,new,BarleyBlends,$0.89 ,$0.89 ,2,4/25/11,USPS,$1.78 ,$0.00 ,$1.78 
+154,4/27/11,,Amazon.com,new,Sneakers Seekers,$130.00 ,$109.95 ,1,4/28/11,FEDEX,$109.95 ,$0.00 ,$109.95 
+155,4/29/11,SOFTWARE,Amazon.com,new,Amazon.com,$149.99 ,$114.99 ,1,4/29/11,FEDEX,$114.99 ,$0.00 ,$114.99 
+156,5/3/11,COMPUTER,Amazon.com,new,Amazon.com,$5.48 ,$5.48 ,1,5/4/11,ONTRAC,$5.48 ,$0.00 ,$5.48 
+157,5/8/11,BEAUTY,Amazon.com,new,The Vitamin Shoppe,$7.78 ,$7.29 ,1,5/8/11,Mail Innovations,$7.29 ,$0.64 ,$7.93 
+158,5/10/11,SHIRT,Amazon.com,new,Amazon.com,$24.99 ,$24.99 ,1,5/11/11,ONTRAC,$24.99 ,$0.00 ,$24.99 
+159,5/10/11,SHIRT,Amazon.com,new,Amazon.com,$25.00 ,$5.72 ,1,5/11/11,UPS,$5.72 ,$0.00 ,$5.72 
+160,5/11/11,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$14.95 ,$11.14 ,1,5/11/11,ONTRAC,$11.14 ,$0.00 ,$11.14 
+161,5/11/11,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$629.00 ,$514.65 ,1,5/11/11,UPS,$514.65 ,$0.00 ,$514.65 
+162,5/12/11,,Amazon.com,new,MyOfficeInnovations,$119.95 ,$13.09 ,1,5/16/11,UPS,$13.09 ,$1.15 ,$14.24 
+163,5/13/11,NETWORKING_DEVICE,Amazon.com,new,BestDealUSA,$6.84 ,$6.84 ,1,5/14/11,USPS,$6.84 ,$0.00 ,$6.84 
+164,5/14/11,CABLE_OR_ADAPTER,Amazon.com,new,WOWparts,$8.00 ,$2.62 ,1,5/17/11,USPS,$2.62 ,$0.00 ,$2.62 
+165,5/14/11,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$5.14 ,$5.14 ,1,5/16/11,ONTRAC,$5.14 ,$0.00 ,$5.14 
+166,5/14/11,COMPUTER_ADD_ON,Amazon.com,new,Kinobo,$13.99 ,$13.99 ,1,5/16/11,ONTRAC,$13.99 ,$0.00 ,$13.99 
+167,5/15/11,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$699.00 ,$644.00 ,1,5/15/11,UPS,$644.00 ,$0.00 ,$644.00 
+168,5/17/11,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$14.95 ,$11.14 ,1,5/17/11,ONTRAC,$11.14 ,$0.00 ,$11.14 
+169,5/17/11,CAMCORDER,Amazon.com,new,Amazon.com,$39.99 ,$25.48 ,1,5/18/11,ONTRAC,$25.48 ,$0.00 ,$25.48 
+170,5/22/11,ART_AND_CRAFT_SUPPLY,Amazon.com,new,Jed Mart,$6.95 ,$6.95 ,1,5/23/11,USPS,$6.95 ,$0.00 ,$6.95 
+171,5/24/11,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,TRAVEL COMMODITY,$3.25 ,$3.25 ,1,5/25/11,USPS,$3.25 ,$0.00 ,$3.25 
+172,5/28/11,,Amazon.com,new,"Great Goods, Inc.",$68.00 ,$46.95 ,1,5/30/11,ONTRAC,$46.95 ,$0.00 ,$46.95 
+173,5/28/11,HEALTH_PERSONAL_CARE,Amazon.com,new,SafetyRazorPlace,$10.95 ,$10.95 ,1,5/31/11,UPS,$10.95 ,$0.00 ,$10.95 
+174,5/28/11,BEAUTY,Amazon.com,new,GOOD BUY NY,$36.57 ,$13.99 ,1,5/29/11,USPS,$13.99 ,$0.00 ,$13.99 
+175,5/30/11,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,LuggageGuru,$280.00 ,$102.99 ,1,5/31/11,UPS,$102.99 ,$0.00 ,$102.99 
+176,5/30/11,BEAUTY,Amazon.com,new,Amazon.com,$69.99 ,$54.99 ,1,5/31/11,ONTRAC,$54.99 ,$0.00 ,$54.99 
+177,5/30/11,BEAUTY,Amazon.com,new,Amazon.com,$29.99 ,$11.39 ,1,5/31/11,ONTRAC,$11.39 ,$0.00 ,$11.39 
+178,5/30/11,SEEDS_AND_PLANTS,Amazon.com,new,Amazon.com,$2.59 ,$2.59 ,4,5/31/11,ONTRAC,$10.36 ,$0.00 ,$10.36 
+179,5/30/11,SEEDS_AND_PLANTS,Amazon.com,new,Amazon.com,$1.59 ,$1.59 ,4,5/31/11,ONTRAC,$6.36 ,$0.00 ,$6.36 
+180,6/2/11,SURVEILANCE_SYSTEMS,Amazon.com,new,Creative Square,$99.99 ,$99.99 ,1,6/3/11,ONTRAC,$99.99 ,$0.00 ,$99.99 
+181,6/2/11,OUTDOOR_LIVING,Amazon.com,new,VCT ELECTRONICS,$9.99 ,$5.27 ,1,6/2/11,USPS,$5.27 ,$0.00 ,$5.27 
+182,6/4/11,BEAUTY,Amazon.com,new,Amazon.com,$38.99 ,$31.20 ,1,6/5/11,ONTRAC,$31.20 ,$0.00 ,$31.20 
+183,6/5/11,TUNER,Amazon.com,new,Amazon.com,$159.99 ,$139.99 ,1,6/5/11,ONTRAC,$139.99 ,$0.00 ,$139.99 
+184,6/8/11,CELLULAR_PHONE,Amazon.com,,AmazonWireless,$599.99 ,$129.99 ,1,6/9/11,ONTRAC,$129.99 ,$0.00 ,$129.99 
+185,6/8/11,WIRELESS_ACCESSORY,Amazon.com,,AmazonWireless,$0.01 ,$0.00 ,1,6/9/11,ONTRAC,$0.00 ,$0.00 ,$0.00 
+186,6/8/11,CONSUMER_ELECTRONICS,Amazon.com,,AmazonWireless,$0.01 ,$0.00 ,1,6/9/11,ONTRAC,$0.00 ,$0.00 ,$0.00 
+187,6/9/11,,Amazon.com,new,FragranceNet,$65.00 ,$44.75 ,1,6/11/11,FedEx SmartPost,$44.75 ,$0.00 ,$44.75 
+188,6/9/11,BEAUTY,Amazon.com,new,FragranceNet,$55.00 ,$36.00 ,1,6/11/11,FedEx SmartPost,$36.00 ,$0.00 ,$36.00 
+189,6/9/11,BEAUTY,Amazon.com,new,Amazon.com,$80.00 ,$37.20 ,1,6/10/11,UPS,$37.20 ,$0.00 ,$37.20 
+190,6/14/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$129.99 ,$129.99 ,1,6/14/11,ONTRAC,$129.99 ,$0.00 ,$129.99 
+191,6/14/11,,Amazon.com,new,Amazon.com,$45.99 ,$45.99 ,1,6/14/11,ONTRAC,$45.99 ,$0.00 ,$45.99 
+192,6/14/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$34.99 ,$31.46 ,2,6/14/11,ONTRAC,$62.92 ,$0.00 ,$62.92 
+193,6/14/11,,Amazon.com,new,Best Deal Supply,$37.27 ,$37.27 ,1,6/14/11,USPS,$37.27 ,$0.00 ,$37.27 
+194,6/15/11,,Amazon.com,new,Amazon.com,$39.99 ,$37.20 ,2,6/16/11,ONTRAC,$74.40 ,$0.00 ,$74.40 
+195,6/17/11,HARDWARE,Amazon.com,new,Amazon.com,$18.63 ,$14.94 ,2,6/17/11,ONTRAC,$29.88 ,$0.00 ,$29.88 
+196,6/20/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$34.99 ,$31.97 ,1,6/20/11,ONTRAC,$31.97 ,$0.00 ,$31.97 
+197,6/20/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$49.99 ,$48.25 ,1,6/20/11,ONTRAC,$48.25 ,$0.00 ,$48.25 
+198,6/20/11,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$17.99 ,$13.91 ,1,6/20/11,ONTRAC,$13.91 ,$0.00 ,$13.91 
+199,6/20/11,,Amazon.com,new,Best Deal Supply,$37.24 ,$37.24 ,2,6/22/11,UPS,$74.48 ,$0.00 ,$74.48 
+200,6/20/11,ABIS_DRUGSTORE,Amazon.com,new,CONTINENTAL SUPPLY,$8.79 ,$0.76 ,1,6/20/11,USPS,$0.76 ,$0.00 ,$0.76 
+201,6/20/11,HARDWARE,Amazon.com,,Amazon.com,$18.63 ,$0.00 ,2,6/20/11,UPS,$0.00 ,$0.00 ,$0.00 
+202,7/1/11,CELLULAR_PHONE,Amazon.com,,AmazonWireless,$599.99 ,$149.99 ,1,7/5/11,ONTRAC,$149.99 ,$0.00 ,$149.99 
+203,7/1/11,CONSUMER_ELECTRONICS,Amazon.com,,AmazonWireless,$0.01 ,$0.00 ,1,7/5/11,ONTRAC,$0.00 ,$0.00 ,$0.00 
+204,7/1/11,WIRELESS_ACCESSORY,Amazon.com,,AmazonWireless,$0.01 ,$0.00 ,1,7/5/11,ONTRAC,$0.00 ,$0.00 ,$0.00 
+205,8/8/11,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,LuggageGuru,$280.00 ,$102.99 ,1,8/8/11,UPS,$102.99 ,$0.00 ,$102.99 
+206,12/7/11,ABIS_BOOK,Amazon.com,used verygood,Goodwill Charlotte Books,$55.10 ,$55.10 ,1,12/8/11,USPS,$55.10 ,$0.00 ,$55.10 
+207,12/18/11,HEADPHONES,Amazon.com,new,Amazon.com,$99.95 ,$89.95 ,1,12/18/11,UPS,$89.95 ,$0.00 ,$89.95 
+208,12/24/11,BEAUTY,Amazon.com,new,AmericaRx,$17.95 ,$12.75 ,4,12/27/11,ONTRAC,$51.00 ,$0.00 ,$51.00 
+209,12/30/11,SHAMPOO,Amazon.com,new,SafetyFast,$35.00 ,$29.50 ,1,1/2/12,ONTRAC,$29.50 ,$0.00 ,$29.50 
+210,6/12/12,HEALTH_PERSONAL_CARE,Amazon.com,new,AmericaRx,$3.99 ,$2.32 ,1,6/13/12,USPS,$2.32 ,$0.00 ,$2.32 
+211,7/2/12,BEAUTY,Amazon.com,new,Green Web Inc,$17.95 ,$12.06 ,4,7/3/12,USPS,$48.24 ,$0.00 ,$48.24 
+212,7/3/12,HOME,Amazon.com,new,Amazon.com,$31.95 ,$28.24 ,1,7/8/12,USPS,$28.24 ,$2.33 ,$30.57 
+213,7/6/12,ABIS_BOOK,Amazon.com,used good,textbooksnow-,$114.31 ,$114.31 ,1,7/9/12,FedEx,$114.31 ,$0.00 ,$114.31 
+214,7/7/12,BEAUTY,Amazon.com,new,Amazon.com,$38.99 ,$29.30 ,1,7/10/12,USPS,$29.30 ,$2.42 ,$31.72 
+215,7/8/12,COMPUTER_ADD_ON,Amazon.com,new,Cmple com,$0.00 ,$1.19 ,1,7/9/12,US Postal Service,$1.19 ,$0.00 ,$1.19 
+216,7/8/12,,Amazon.com,new,POWERGEN,$29.99 ,$9.99 ,1,7/10/12,USPS,$9.99 ,$0.00 ,$9.99 
+217,7/8/12,SHAMPOO,Amazon.com,new,NY Supply,$24.99 ,$29.09 ,1,7/10/12,USPS,$29.09 ,$0.00 ,$29.09 
+218,7/9/12,COFFEE,Amazon.com,new,Amazon.com,$21.98 ,$25.45 ,1,7/10/12,USPS,$25.45 ,$0.00 ,$25.45 
+219,7/15/12,,Amazon.com,new,SF Planet,$18.99 ,$9.05 ,1,7/17/12,USPS,$9.05 ,$0.00 ,$9.05 
+220,7/15/12,COMPUTER_COMPONENT,Amazon.com,new,BlueRigger,$4.99 ,$4.99 ,2,7/17/12,USPS,$9.98 ,$0.00 ,$9.98 
+221,7/15/12,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$7.49 ,$7.49 ,1,7/17/12,USPS,$7.49 ,$0.62 ,$8.11 
+222,7/16/12,PRINTER,Amazon.com,new,Amazon.com,$495.00 ,$116.15 ,1,7/18/12,UPS,$116.15 ,$9.58 ,$125.73 
+223,7/16/12,,Amazon.com,new,NorthShore Care Supply,$9.99 ,$9.46 ,1,7/18/12,USPS,$9.46 ,$0.00 ,$9.46 
+224,7/16/12,COMPUTER_ADD_ON,Amazon.com,new,"eBusinessCables, Inc.",$16.99 ,$3.19 ,1,7/18/12,USPS,$3.19 ,$0.00 ,$3.19 
+225,7/16/12,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$6.99 ,$6.99 ,1,7/18/12,USPS,$6.99 ,$0.58 ,$7.57 
+226,7/17/12,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$5.99 ,$3.83 ,1,7/18/12,USPS,$3.83 ,$0.32 ,$4.15 
+227,7/17/12,NOTEBOOK_COMPUTER,Amazon.com,new,Amazon.com,$739.99 ,$629.99 ,0,,,$0.00 ,$0.00 ,$0.00 
+228,7/19/12,RAM_MEMORY,Amazon.com,new,Amazon.com,$89.99 ,$44.99 ,1,7/20/12,USPS,$44.99 ,$3.71 ,$48.70 
+229,7/19/12,SCREWDRIVER,Amazon.com,new,HTS USA,$12.00 ,$6.54 ,0,,,$0.00 ,$0.00 ,$0.00 
+230,7/22/12,COMPUTER_ADD_ON,Amazon.com,new,Importer520  ( USA Seller ),$0.00 ,$2.92 ,1,7/23/12,DHL Global Mail,$2.92 ,$0.00 ,$2.92 
+231,7/26/12,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,Best Deal Supply,$1.90 ,$1.90 ,1,7/27/12,OTHER,$1.90 ,$0.00 ,$1.90 
+232,7/26/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,HitTimeStore,$1.85 ,$1.85 ,1,7/27/12,China Post,$1.85 ,$0.00 ,$1.85 
+233,7/26/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Cheerwing USA,$2.99 ,$2.99 ,1,7/27/12,China Post,$2.99 ,$0.00 ,$2.99 
+234,7/26/12,KITCHEN,Amazon.com,new,Amazon.com,$9.99 ,$8.11 ,1,7/27/12,USPS,$8.11 ,$0.67 ,$8.78 
+235,7/26/12,SHOES,Amazon.com,new,Amazon.com,$84.95 ,$52.75 ,1,7/27/12,USPS,$52.75 ,$4.35 ,$57.10 
+236,7/26/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Amazon.com,$8.95 ,$8.95 ,1,7/27/12,USPS,$8.95 ,$0.74 ,$9.69 
+237,7/26/12,TOOLS,Amazon.com,,Amazon.com,$0.00 ,$11.49 ,1,7/27/12,USPS,$11.49 ,$0.95 ,$12.44 
+238,7/27/12,MONITOR,Amazon.com,new,Amazon.com,$144.99 ,$130.98 ,0,,,$0.00 ,$0.00 ,$0.00 
+239,7/27/12,KITCHEN,Amazon.com,new,Amazon.com,$24.99 ,$15.00 ,1,7/30/12,UPS,$15.00 ,$1.24 ,$16.24 
+240,7/28/12,OFFICE_PRODUCTS,Amazon.com,new,Value Max,$26.99 ,$26.99 ,1,7/30/12,UPS,$26.99 ,$0.00 ,$26.99 
+241,7/28/12,OFFICE_PRODUCTS,Amazon.com,new,Royal Store,$2.80 ,$2.80 ,1,7/31/12,UPS,$2.80 ,$0.00 ,$2.80 
+242,7/30/12,MONITOR,Amazon.com,new,Amazon.com,$169.00 ,$155.98 ,1,7/30/12,UPS,$155.98 ,$12.87 ,$168.85 
+243,7/30/12,HEADPHONES,Amazon.com,new,Overstocks Closeout,$49.99 ,$21.99 ,1,7/30/12,UPS,$21.99 ,$0.00 ,$21.99 
+244,7/30/12,SPEAKERS,Amazon.com,new,Amazon.com,$99.00 ,$99.00 ,1,7/30/12,UPS,$99.00 ,$8.17 ,$107.17 
+245,8/1/12,SPEAKERS,Amazon.com,,Amazon.com,$99.00 ,$0.00 ,1,8/1/12,UPS,$0.00 ,$0.00 ,$0.00 
+246,8/1/12,SHOES,Amazon.com,new,Amazon.com,$84.95 ,$70.70 ,1,8/2/12,UPS,$70.70 ,$5.83 ,$76.53 
+247,8/2/12,HEADPHONES,Amazon.com,new,Amazon.com,$39.99 ,$20.27 ,1,8/2/12,UPS,$20.27 ,$1.67 ,$21.94 
+248,8/2/12,RAM_MEMORY,Amazon.com,new,Amazon.com,$36.99 ,$23.99 ,1,8/2/12,UPS,$23.99 ,$1.98 ,$25.97 
+249,8/4/12,ABIS_DVD,Amazon.com,used mint,SourceMedia,$9.99 ,$2.89 ,1,8/5/12,UPS,$2.89 ,$0.00 ,$2.89 
+250,8/5/12,SHOES,Amazon.com,new,Amazon.com,$129.95 ,$119.95 ,1,8/6/12,UPS,$119.95 ,$9.90 ,$129.85 
+251,8/5/12,CABLE_OR_ADAPTER,Amazon.com,,Amazon.com,$0.00 ,$0.00 ,1,8/5/12,UPS,$0.00 ,$0.00 ,$0.00 
+252,8/5/12,PERSONAL_CARE_APPLIANCE,Amazon.com,new,,$5.00 ,$5.00 ,1,8/6/12,USPS,$5.00 ,$0.00 ,$5.00 
+253,8/5/12,CAMERA_OTHER_ACCESSORIES,Amazon.com,new,Amazon.com,$9.99 ,$7.95 ,1,8/5/12,UPS,$7.95 ,$0.66 ,$8.61 
+254,8/9/12,CABLE_OR_ADAPTER,Amazon.com,new,Cmple com,$0.00 ,$1.54 ,1,8/9/12,US Postal Service,$1.54 ,$0.00 ,$1.54 
+255,8/9/12,WIRELESS_ACCESSORY,Amazon.com,new,Shop Cellar,$44.95 ,$6.99 ,1,8/9/12,UPS,$6.99 ,$0.00 ,$6.99 
+256,8/9/12,SHOES,Amazon.com,new,Amazon.com,$110.00 ,$64.50 ,1,8/10/12,UPS,$64.50 ,$5.32 ,$69.82 
+257,8/9/12,SHOES,Amazon.com,new,Amazon.com,$100.00 ,$85.31 ,1,8/10/12,FEDEX,$85.31 ,$7.04 ,$92.35 
+258,8/9/12,SHOES,Amazon.com,new,Amazon.com,$110.00 ,$64.50 ,1,8/10/12,FEDEX,$64.50 ,$5.32 ,$69.82 
+259,8/9/12,SHOES,Amazon.com,new,Amazon.com,$100.00 ,$85.31 ,1,8/10/12,FEDEX,$85.31 ,$7.04 ,$92.35 
+260,8/13/12,TABLET_COMPUTER,Amazon.com,new,Amazon.com,$599.99 ,$588.00 ,1,8/13/12,UPS,$588.00 ,$48.51 ,$636.51 
+261,8/15/12,,Amazon.com,new,,$14.00 ,$14.00 ,1,8/15/12,UPS,$14.00 ,$0.00 ,$14.00 
+262,8/18/12,SPORTING_GOODS,Amazon.com,new,LastWorld,$14.00 ,$11.95 ,1,8/19/12,UPS,$11.95 ,$0.00 ,$11.95 
+263,8/19/12,BEAUTY,Amazon.com,new,Amazon.com,$25.99 ,$13.97 ,1,8/20/12,ONTRAC,$13.97 ,$0.00 ,$13.97 
+264,8/23/12,KEYBOARDS,Amazon.com,new,mimogram,$11.99 ,$11.99 ,1,8/26/12,UPS,$11.99 ,$0.00 ,$11.99 
+265,8/23/12,BEAUTY,Amazon.com,new,Amazon.com,$25.99 ,$13.97 ,1,8/26/12,UPS,$13.97 ,$1.15 ,$15.12 
+266,8/25/12,ABIS_BOOK,Amazon.com,new,Amazon.com,$115.00 ,$115.00 ,0,,,$0.00 ,$0.00 ,$0.00 
+267,8/25/12,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$12.95 ,$3.79 ,1,8/25/12,UPS,$3.79 ,$0.31 ,$4.10 
+268,8/25/12,ABIS_BOOK,Amazon.com,new,Books@Speed,$52.04 ,$52.04 ,1,8/27/12,DHL,$52.04 ,$0.00 ,$52.04 
+269,8/25/12,ABIS_BOOK,Amazon.com,used mint,,$99.00 ,$55.00 ,1,8/25/12,USPS,$55.00 ,$0.00 ,$55.00 
+270,8/25/12,ABIS_BOOK,Amazon.com,used verygood,Book_Holders,$243.80 ,$133.65 ,1,8/27/12,USPS,$133.65 ,$0.00 ,$133.65 
+271,9/7/12,COMPUTER_INPUT_DEVICE,Amazon.com,new,Cosmos Tech&Leisure,$30.00 ,$9.99 ,1,9/9/12,UPS,$9.99 ,$0.00 ,$9.99 
+272,9/14/12,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$22.70 ,$12.82 ,1,9/16/12,UPS,$12.82 ,$1.06 ,$13.88 
+273,9/15/12,INK_OR_TONER,Amazon.com,new,Amazon.com,$104.00 ,$67.90 ,1,9/15/12,UPS,$67.90 ,$5.60 ,$73.50 
+274,10/13/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,niceeshop,$4.48 ,$4.48 ,1,10/15/12,USPS,$4.48 ,$0.00 ,$4.48 
+275,10/13/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Amazon.com,$10.95 ,$7.21 ,1,10/14/12,UPS,$7.21 ,$0.59 ,$7.80 
+276,10/13/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,FixFind,$16.99 ,$6.99 ,1,10/13/12,USPS,$6.99 ,$0.00 ,$6.99 
+277,10/13/12,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Amazon.com,$8.42 ,$9.66 ,1,10/14/12,UPS,$9.66 ,$0.80 ,$10.46 
+278,10/14/12,HEALTH_PERSONAL_CARE,Amazon.com,new,Gossamer Blue,$8.00 ,$7.95 ,1,10/14/12,UPS,$7.95 ,$0.00 ,$7.95 
+279,10/14/12,,Amazon.com,new,POTENT_SKINCARE,$7.99 ,$7.99 ,1,10/15/12,UPS,$7.99 ,$0.00 ,$7.99 
+280,10/14/12,,Amazon.com,new,Undercover Condoms,$4.49 ,$5.95 ,1,10/15/12,USPS,$5.95 ,$0.00 ,$5.95 
+281,10/14/12,HEALTH_PERSONAL_CARE,Amazon.com,new,TOTAL LINE,$10.75 ,$10.75 ,1,10/16/12,USPS,$10.75 ,$0.00 ,$10.75 
+282,10/14/12,,Amazon.com,new,Amazon.com,$249.99 ,$141.75 ,1,10/14/12,UPS,$141.75 ,$11.69 ,$153.44 
+283,10/23/12,,Amazon.com,new,Amazon.com,$79.95 ,$72.69 ,1,10/23/12,UPS,$72.69 ,$6.00 ,$78.69 
+284,10/23/12,,Amazon.com,new,GrabAGun,$93.05 ,$93.05 ,1,10/25/12,US Postal Service,$93.05 ,$7.68 ,$100.73 
+285,10/23/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$26.99 ,$21.61 ,1,10/24/12,UPS,$21.61 ,$1.78 ,$23.39 
+286,10/27/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$18.88 ,$16.10 ,1,10/28/12,UPS,$16.10 ,$1.33 ,$17.43 
+287,10/27/12,HOME,Amazon.com,,Amazon.com,$10.99 ,$5.49 ,1,10/28/12,UPS,$5.49 ,$0.45 ,$5.94 
+288,10/28/12,KITCHEN,Amazon.com,new,ZogoSportz,$8.99 ,$7.59 ,1,10/28/12,UPS,$7.59 ,$0.00 ,$7.59 
+289,10/28/12,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$82.45 ,$52.99 ,1,10/28/12,UPS,$52.99 ,$0.00 ,$52.99 
+290,11/2/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$21.98 ,$20.80 ,1,11/3/12,UPS,$20.80 ,$1.72 ,$22.52 
+291,11/2/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$9.97 ,$7.53 ,1,11/3/12,UPS,$7.53 ,$0.62 ,$8.15 
+292,11/2/12,SPORTING_GOODS,Amazon.com,new,Brian Enos Inc,$11.95 ,$11.95 ,1,11/5/12,USPS,$11.95 ,$0.00 ,$11.95 
+293,11/2/12,SPORTING_GOODS,Amazon.com,new,MIS Outdoors,$10.00 ,$7.66 ,2,11/2/12,USPS,$15.32 ,$0.00 ,$15.32 
+294,11/2/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$11.49 ,$10.70 ,1,11/3/12,UPS,$10.70 ,$0.88 ,$11.58 
+295,11/20/12,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$6.49 ,$5.78 ,1,11/20/12,UPS,$5.78 ,$0.48 ,$6.26 
+296,11/24/12,BEAUTY,Amazon.com,new,Tuccini,$52.00 ,$11.99 ,1,11/26/12,USPS,$11.99 ,$0.00 ,$11.99 
+297,12/7/12,BUILDING_MATERIAL,Amazon.com,new,Amazon.com,$11.96 ,$11.37 ,1,12/8/12,UPS,$11.37 ,$0.94 ,$12.31 
+298,12/7/12,CE_CARRYING_CASE_OR_BAG,Amazon.com,new,BSCstore,$19.99 ,$19.99 ,1,12/8/12,UPS,$19.99 ,$0.00 ,$19.99 
+299,12/9/12,,Amazon.com,new,Amazon.com,$25.99 ,$19.95 ,1,12/10/12,UPS,$19.95 ,$1.65 ,$21.60 
+300,12/9/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$60.00 ,$9.63 ,1,12/10/12,UPS,$9.63 ,$0.79 ,$10.42 
+301,12/9/12,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Life and Home,$14.67 ,$10.95 ,1,12/9/12,UPS,$10.95 ,$0.00 ,$10.95 
+302,12/9/12,CABLE_OR_ADAPTER,Amazon.com,new,SF Planet,$3.15 ,$3.15 ,1,12/11/12,USPS,$3.15 ,$0.00 ,$3.15 
+303,12/9/12,COMPUTER,Amazon.com,new,Amazon.com,$14.95 ,$8.84 ,1,12/10/12,UPS,$8.84 ,$0.73 ,$9.57 
+304,12/13/12,COMPUTER_COMPONENT,Amazon.com,new,,$225.00 ,$181.88 ,1,12/13/12,UPS,$181.88 ,$0.00 ,$181.88 
+305,12/17/12,COMPUTER,Amazon.com,new,Amazon.com,$14.95 ,$8.65 ,1,12/17/12,UPS,$8.65 ,$0.67 ,$9.32 
+306,12/17/12,CHARGING_ADAPTER,Amazon.com,new,Can I Cell You Something,$29.99 ,$4.95 ,1,12/18/12,USPS,$4.95 ,$0.00 ,$4.95 
+307,12/17/12,,Amazon.com,new,YAN's warehouse,$5.73 ,$5.73 ,1,12/17/12,USPS,$5.73 ,$0.00 ,$5.73 
+308,12/19/12,CE_CARRYING_CASE_OR_BAG,Amazon.com,new,BSCstore,$19.99 ,$19.99 ,1,12/20/12,UPS,$19.99 ,$0.00 ,$19.99 
+309,12/19/12,CABLE_OR_ADAPTER,Amazon.com,new,CCMACCESSORIES,$3.89 ,$3.89 ,1,12/19/12,USPS,$3.89 ,$0.00 ,$3.89 
+310,12/21/12,FLASH_MEMORY,Amazon.com,new,Amazon.com,$69.99 ,$24.99 ,1,12/22/12,UPS,$24.99 ,$2.06 ,$27.05 
+311,12/22/12,,Amazon.com,new,American Tactical,$16.99 ,$16.99 ,2,12/22/12,UPS,$33.98 ,$0.00 ,$33.98 
+312,12/22/12,SPORTING_GOODS,Amazon.com,new,Amazon.com,$21.99 ,$17.77 ,1,12/22/12,UPS,$17.77 ,$1.47 ,$19.24 
+313,12/28/12,ABIS_BOOK,Amazon.com,used verygood,,$75.00 ,$26.01 ,1,12/29/12,USPS,$26.01 ,$0.00 ,$26.01 
+314,12/28/12,ABIS_BOOK,Amazon.com,new,Amazon.com,$29.99 ,$19.79 ,1,12/29/12,UPS,$19.79 ,$1.63 ,$21.42 
+315,12/28/12,ABIS_BOOK,Amazon.com,new,Amazon.com,$39.95 ,$26.11 ,1,12/29/12,UPS,$26.11 ,$2.15 ,$28.26 
+316,1/1/13,KITCHEN,Amazon.com,new,Amazon.com,$130.00 ,$99.95 ,1,1/2/13,UPS,$99.95 ,$8.25 ,$108.20 
+317,1/4/13,OFFICE_PRODUCTS,Amazon.com,new,Value Max,$159.99 ,$57.99 ,1,1/4/13,FEDEX,$57.99 ,$0.00 ,$57.99 
+318,1/8/13,,Amazon.com,new,Amazon.com,$249.99 ,$141.75 ,1,1/9/13,ONTRAC,$141.75 ,$11.34 ,$153.09 
+319,1/16/13,,Amazon.com,new,MyOfficeInnovations,$119.95 ,$15.64 ,2,1/18/13,UPS,$31.28 ,$2.58 ,$33.86 
+320,1/16/13,HEALTH_PERSONAL_CARE,Amazon.com,new,Super Safety Razors,$28.77 ,$28.77 ,1,1/16/13,UPS,$28.77 ,$0.00 ,$28.77 
+321,1/16/13,BEAUTY,Amazon.com,new,Super Safety Razors,$12.99 ,$9.69 ,1,1/16/13,UPS,$9.69 ,$0.00 ,$9.69 
+322,1/17/13,OFFICE_PRODUCTS,Amazon.com,new,Value Max,$99.99 ,$22.99 ,2,1/17/13,FEDEX,$45.98 ,$0.00 ,$45.98 
+323,1/20/13,HOME,Amazon.com,new,Amazon.com,$12.99 ,$11.17 ,1,1/21/13,UPS,$11.17 ,$0.92 ,$12.09 
+324,1/24/13,BEAUTY,Amazon.com,new,,$17.95 ,$12.65 ,2,1/25/13,UPS,$25.30 ,$0.00 ,$25.30 
+325,1/29/13,,Amazon.com,new,Everything Overstock,$10.69 ,$10.69 ,1,1/30/13,USPS,$10.69 ,$0.00 ,$10.69 
+326,1/30/13,ELECTRONIC_CABLE,Amazon.com,new,Onix Venture Group,$49.99 ,$14.99 ,1,1/31/13,UPS,$14.99 ,$0.00 ,$14.99 
+327,1/31/13,,Amazon.com,new,"Rock Ridge Sales, Inc",$9.99 ,$3.42 ,1,2/1/13,USPS,$3.42 ,$0.00 ,$3.42 
+328,2/1/13,ELECTRONIC_CABLE,Amazon.com,new,AmaMax (USA) Since 1993 l iMBAPrice¬Æ Authorized Distributor,$0.00 ,$3.48 ,1,2/1/13,USPS,$3.48 ,$0.00 ,$3.48 
+329,2/8/13,SPORTING_GOODS,Amazon.com,new,"Comfytopia, Inc",$39.99 ,$11.70 ,2,2/10/13,UPS,$23.40 ,$0.00 ,$23.40 
+330,2/9/13,MONITOR,Amazon.com,new,Amazon.com,$154.00 ,$144.99 ,1,2/10/13,UPS,$144.99 ,$11.96 ,$156.95 
+331,2/9/13,HEADPHONES,Amazon.com,new,Amazon.com,$199.00 ,$114.11 ,1,2/10/13,ONTRAC,$114.11 ,$9.13 ,$123.24 
+332,2/9/13,,Amazon.com,new,Amazon.com,$249.99 ,$148.13 ,1,2/10/13,ONTRAC,$148.13 ,$11.85 ,$159.98 
+333,2/10/13,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$18.00 ,1,2/10/13,,$18.00 ,$0.00 ,$18.00 
+334,2/10/13,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$30.10 ,1,2/10/13,,$30.10 ,$0.00 ,$30.10 
+335,2/15/13,,Amazon.com,new,BuyBelowSale,$15.65 ,$15.65 ,4,2/18/13,USPS,$62.60 ,$0.00 ,$62.60 
+336,2/16/13,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$27.99 ,$8.43 ,1,2/17/13,UPS,$8.43 ,$0.70 ,$9.13 
+337,2/16/13,TOYS_AND_GAMES,Amazon.com,new,Cool Stuff Place,$39.95 ,$28.99 ,1,2/17/13,UPS,$28.99 ,$0.00 ,$28.99 
+338,2/26/13,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$27.99 ,$10.03 ,1,2/26/13,UPS,$10.03 ,$0.83 ,$10.86 
+339,2/26/13,CABLE_OR_ADAPTER,Amazon.com,new,1D4US,$42.99 ,$11.60 ,1,2/27/13,USPS,$11.60 ,$0.00 ,$11.60 
+340,3/1/13,HEADPHONES,Amazon.com,new,Amazon.com,$29.99 ,$15.99 ,1,3/3/13,UPS,$15.99 ,$1.32 ,$17.31 
+341,3/9/13,RAM_MEMORY,Amazon.com,new,Komputerbay,$99.00 ,$99.00 ,1,3/11/13,USPS,$99.00 ,$0.00 ,$99.00 
+342,3/11/13,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$22.70 ,$13.99 ,1,3/11/13,UPS,$13.99 ,$1.15 ,$15.14 
+343,3/11/13,SOFTWARE,Amazon.com,new,Amazon.com,$128.70 ,$91.17 ,1,3/12/13,UPS,$91.17 ,$7.52 ,$98.69 
+344,3/11/13,ELECTRONIC_CABLE,Amazon.com,new,Importer520  ( USA Seller ),$24.99 ,$4.18 ,1,3/12/13,UPS,$4.18 ,$0.00 ,$4.18 
+345,3/11/13,,Amazon.com,new,Amazon.com,$189.99 ,$137.63 ,1,3/12/13,UPS,$137.63 ,$11.35 ,$148.98 
+346,3/13/13,CAMERA_OTHER_ACCESSORIES,Amazon.com,new,Amazon.com,$9.99 ,$7.95 ,1,3/13/13,USPS,$7.95 ,$0.66 ,$8.61 
+347,3/21/13,OFFICE_PRODUCTS,Amazon.com,new,SELL BELOW COST,$149.95 ,$89.99 ,1,3/21/13,FEDEX,$89.99 ,$0.00 ,$89.99 
+348,3/21/13,,Amazon.com,new,Amazon.com,$6.99 ,$6.99 ,1,3/21/13,FEDEX,$6.99 ,$0.58 ,$7.57 
+349,3/21/13,MONITOR,Amazon.com,new,Amazon.com,$164.99 ,$143.99 ,1,3/21/13,FEDEX,$143.99 ,$11.88 ,$155.87 
+350,3/21/13,KEYBOARDS,Amazon.com,new,Amazon.com,$29.99 ,$23.10 ,1,3/21/13,FEDEX,$23.10 ,$1.91 ,$25.01 
+351,3/21/13,COMPUTER,Amazon.com,new,Plugable Technologies,$99.99 ,$59.95 ,1,3/21/13,FEDEX,$59.95 ,$0.00 ,$59.95 
+352,3/24/13,HEALTH_PERSONAL_CARE,Amazon.com,new,BuyHerbs,$54.95 ,$24.95 ,1,3/26/13,USPS,$24.95 ,$0.00 ,$24.95 
+353,5/3/13,,Amazon.com,new,2020Products,$17.99 ,$3.98 ,1,5/5/13,USPS,$3.98 ,$0.00 ,$3.98 
+354,5/7/13,CELLULAR_PHONE_CASE,Amazon.com,new,Panda Town(Ships From Hongkong),$0.00 ,$3.28 ,1,5/8/13,HK  POST,$3.28 ,$0.00 ,$3.28 
+355,6/13/13,,Amazon.com,new,Amazon.com,$49.99 ,$44.71 ,1,6/13/13,USPS,$44.71 ,$3.80 ,$48.51 
+356,6/24/13,NETWORKING_ROUTER,Amazon.com,new,Amazon.com,$76.64 ,$51.99 ,1,6/24/13,ONTRAC,$51.99 ,$4.42 ,$56.41 
+357,7/14/13,,Amazon.com,new,AnkerDirect,$0.00 ,$9.99 ,1,7/15/13,USPS,$9.99 ,$0.00 ,$9.99 
+358,7/23/13,WIRELESS_ACCESSORY,Amazon.com,new,Eforcity,$0.00 ,$0.20 ,1,7/24/13,"DHL Global Mail,DHL Global Mail",$0.20 ,$0.02 ,$0.22 
+359,7/23/13,,Amazon.com,new,Eforcity,$0.00 ,$0.10 ,1,7/24/13,"DHL Global Mail,DHL Global Mail",$0.10 ,$0.01 ,$0.11 
+360,7/23/13,BEAUTY,Amazon.com,new,,$17.95 ,$12.79 ,2,7/24/13,USPS,$25.58 ,$0.00 ,$25.58 
+361,8/1/13,KITCHEN,Amazon.com,new,Amazon.com,$7.48 ,$8.24 ,1,8/1/13,SMARTPOST,$8.24 ,$0.58 ,$8.82 
+362,8/1/13,WIRELESS_ACCESSORY,Amazon.com,new,KINGMAS,$0.00 ,$3.49 ,1,8/1/13,USPS,$3.49 ,$0.00 ,$3.49 
+363,8/1/13,,Amazon.com,new,KINGMAS,$0.00 ,$2.49 ,1,8/1/13,USPS,$2.49 ,$0.00 ,$2.49 
+364,8/1/13,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,Innovationstore,$0.00 ,$19.95 ,1,8/1/13,SMARTPOST,$19.95 ,$0.00 ,$19.95 
+365,8/3/13,OUTDOOR_LIVING,Amazon.com,new,Innovationstore,$0.00 ,$18.99 ,1,8/4/13,SMARTPOST,$18.99 ,$0.00 ,$18.99 
+366,8/5/13,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$39.99 ,$17.88 ,1,8/5/13,LASERSHIP,$17.88 ,$1.25 ,$19.13 
+367,8/9/13,BATTERY,Amazon.com,new,Amazon.com,$9.52 ,$8.50 ,1,8/10/13,UPS,$8.50 ,$0.60 ,$9.10 
+368,8/9/13,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,SELL BELOW COST,$15.00 ,$6.97 ,2,8/10/13,UPS,$13.94 ,$0.00 ,$13.94 
+369,8/9/13,BATTERY,Amazon.com,new,Amazon.com,$0.00 ,$9.49 ,1,8/10/13,UPS,$9.49 ,$0.66 ,$10.15 
+370,8/9/13,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,Amazon.com,$16.99 ,$6.77 ,1,8/10/13,UPS,$6.77 ,$0.47 ,$7.24 
+371,8/13/13,BEAUTY,Amazon.com,new,Amazon.com,$57.00 ,$25.05 ,1,8/14/13,UPS,$25.05 ,$1.75 ,$26.80 
+372,8/15/13,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,Amazon.com,$32.91 ,$9.66 ,1,8/15/13,USPS,$9.66 ,$0.68 ,$10.34 
+373,8/21/13,ELECTRIC_FAN,Amazon.com,new,Amazon.com,$49.00 ,$33.09 ,1,8/22/13,USPS,$33.09 ,$2.32 ,$35.41 
+374,8/21/13,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,HDE,$23.99 ,$7.99 ,1,8/22/13,USPS,$7.99 ,$0.00 ,$7.99 
+375,8/21/13,,Amazon.com,new,SELL BELOW COST,$19.95 ,$13.15 ,1,8/22/13,USPS,$13.15 ,$0.00 ,$13.15 
+376,8/21/13,,Amazon.com,new,Maxxima,$0.00 ,$19.99 ,1,8/22/13,USPS,$19.99 ,$0.00 ,$19.99 
+377,8/26/13,HOME,Amazon.com,new,Space with Taste,$14.99 ,$9.99 ,1,8/26/13,UPS,$9.99 ,$0.70 ,$10.69 
+378,8/30/13,HOME,Amazon.com,new,Amazon.com,$209.99 ,$196.50 ,1,9/3/13,UPS,$196.50 ,$13.76 ,$210.26 
+379,8/30/13,OUTDOOR_LIVING,Amazon.com,new,Amazon.com,$14.99 ,$7.97 ,1,8/30/13,LASERSHIP,$7.97 ,$0.56 ,$8.53 
+380,8/31/13,HOME,Amazon.com,new,Space with Taste,$14.99 ,$9.99 ,1,8/31/13,SMARTPOST,$9.99 ,$0.70 ,$10.69 
+381,8/31/13,,Amazon.com,new,Amazon.com,$0.00 ,$14.99 ,1,8/31/13,SMARTPOST,$14.99 ,$1.05 ,$16.04 
+382,9/16/13,,Amazon.com,new,JR Mushrooms & Specialties,$0.00 ,$21.95 ,1,9/17/13,UPS,$21.95 ,$0.00 ,$21.95 
+383,9/30/13,BACKPACK,Amazon.com,new,Amazon.com,$51.95 ,$22.49 ,1,10/1/13,USPS,$22.49 ,$1.57 ,$24.06 
+384,9/30/13,BACKPACK,Amazon.com,new,Amazon.com,$69.99 ,$51.43 ,0,,,$0.00 ,$0.00 ,$0.00 
+385,9/30/13,COMPUTER,Amazon.com,new,Amazon.com,$0.00 ,$5.49 ,1,10/1/13,USPS,$5.49 ,$0.38 ,$5.87 
+386,10/5/13,HOME,Amazon.com,new,Amazon.com,$139.99 ,$119.00 ,1,10/7/13,UPS,$119.00 ,$8.33 ,$127.33 
+387,10/5/13,HARDWARE,Amazon.com,new,Amazon.com,$3.19 ,$3.49 ,0,,,$0.00 ,$0.00 ,$0.00 
+388,10/9/13,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$8.54 ,1,10/9/13,USPS,$8.54 ,$0.00 ,$8.54 
+389,10/9/13,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$2.79 ,$2.49 ,1,10/9/13,UPS,$2.49 ,$0.17 ,$2.66 
+390,10/9/13,HARDWARE,Amazon.com,new,Amazon.com,$3.19 ,$3.49 ,1,10/9/13,UPS,$3.49 ,$0.24 ,$3.73 
+391,10/9/13,CE_ACCESSORY,Amazon.com,new,Amazon.com,$7.26 ,$4.39 ,1,10/9/13,UPS,$4.39 ,$0.31 ,$4.70 
+392,10/9/13,,Amazon.com,new,HitLights,$9.99 ,$5.97 ,1,10/9/13,UPS,$5.97 ,$0.00 ,$5.97 
+393,10/9/13,,Amazon.com,new,Amazon.com,$16.99 ,$12.09 ,1,10/9/13,UPS,$12.09 ,$0.85 ,$12.94 
+394,10/9/13,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$9.82 ,0,,,$0.00 ,$0.00 ,$0.00 
+395,10/15/13,,Amazon.com,new,Amnergy,$0.00 ,$23.89 ,1,10/15/13,UPS,$23.89 ,$0.00 ,$23.89 
+396,10/16/13,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$8.79 ,1,10/17/13,USPS,$8.79 ,$0.00 ,$8.79 
+397,10/16/13,HOME,Amazon.com,new,Amazon.com,$0.00 ,$9.15 ,1,10/17/13,USPS,$9.15 ,$0.64 ,$9.79 
+398,10/16/13,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,Amazon.com,$49.99 ,$21.63 ,1,10/17/13,USPS,$21.63 ,$1.51 ,$23.14 
+399,10/17/13,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$7.49 ,$8.22 ,1,10/17/13,USPS,$8.22 ,$0.58 ,$8.80 
+400,10/18/13,HARDWARE,Amazon.com,new,Amazon.com,$40.99 ,$32.58 ,1,10/19/13,UPS,$32.58 ,$2.28 ,$34.86 
+401,10/18/13,HOME,Amazon.com,new,Best Home Fashion,$39.99 ,$22.99 ,1,10/19/13,UPS,$22.99 ,$1.61 ,$24.60 
+402,11/2/13,COFFEE_MAKER,Amazon.com,new,Amazon.com,$19.99 ,$20.99 ,1,11/2/13,USPS,$20.99 ,$1.47 ,$22.46 
+403,11/12/13,,Amazon.com,new,POWERGEN,$39.99 ,$13.99 ,1,11/13/13,USPS,$13.99 ,$0.00 ,$13.99 
+404,11/12/13,HOME,Amazon.com,new,Amazon.com,$62.99 ,$49.99 ,1,11/13/13,USPS,$49.99 ,$3.50 ,$53.49 
+405,11/13/13,OFFICE_PRODUCTS,Amazon.com,new,OutletPC,$0.00 ,$34.98 ,1,11/13/13,UPS,$34.98 ,$0.00 ,$34.98 
+406,11/20/13,COMPUTER_ADD_ON,Amazon.com,new,Amazon.com,$134.99 ,$94.99 ,1,11/21/13,USPS,$94.99 ,$6.65 ,$101.64 
+407,11/20/13,COMPUTER_COMPONENT,Amazon.com,new,Cable Matters,$24.99 ,$11.99 ,1,11/21/13,USPS,$11.99 ,$0.00 ,$11.99 
+408,11/21/13,ELECTRONIC_ADAPTER,Amazon.com,new,Amazon.com,$87.99 ,$76.89 ,1,11/21/13,USPS,$76.89 ,$5.38 ,$82.27 
+409,11/21/13,ABIS_ELECTRONICS,Amazon.com,new,GO Carol,$0.00 ,$1.87 ,1,11/22/13,HK POST,$1.87 ,$0.00 ,$1.87 
+410,11/22/13,KITCHEN,Amazon.com,new,Amazon.com,$5.99 ,$2.52 ,1,11/23/13,USPS,$2.52 ,$0.13 ,$2.65 
+411,11/22/13,BEAUTY,Amazon.com,new,Wellica Inc,$17.95 ,$12.59 ,2,11/23/13,USPS,$25.18 ,$0.00 ,$25.18 
+412,11/22/13,CARRYING_CASE_OR_BAG,Amazon.com,new,Amazon.com,$99.00 ,$85.24 ,1,11/24/13,UPS,$85.24 ,$4.30 ,$89.54 
+413,11/24/13,COMPUTER_COMPONENT,Amazon.com,new,V I V O,$0.00 ,$38.89 ,1,11/25/13,UPS,$38.89 ,$0.00 ,$38.89 
+414,11/26/13,HANDHELD_OR_PDA,Amazon.com,new,Amazon.com,$119.99 ,$67.24 ,1,11/27/13,USPS,$67.24 ,$4.71 ,$71.95 
+415,11/28/13,KITCHEN,Amazon.com,new,Amazon.com,$5.99 ,$2.55 ,3,11/29/13,FEDEX,$7.65 ,$0.54 ,$8.19 
+416,11/28/13,,Amazon.com,new,Amazon.com,$49.99 ,$19.99 ,1,11/29/13,FEDEX,$19.99 ,$1.40 ,$21.39 
+417,11/28/13,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$269.99 ,$212.99 ,1,11/29/13,FEDEX,$212.99 ,$14.91 ,$227.90 
+418,11/28/13,ABIS_BOOK,Amazon.com,new,Amazon.com,$34.95 ,$27.06 ,1,11/29/13,USPS,$27.06 ,$1.89 ,$28.95 
+419,11/28/13,ABIS_BOOK,Amazon.com,new,Amazon.com,$19.95 ,$15.22 ,1,11/29/13,USPS,$15.22 ,$1.07 ,$16.29 
+420,12/8/13,KITCHEN,Amazon.com,new,Amazon.com,$59.99 ,$54.99 ,1,12/9/13,LASERSHIP,$54.99 ,$2.14 ,$57.13 
+421,12/15/13,AUTO_ACCESSORY,Amazon.com,new,Anything Powersports,$117.95 ,$105.74 ,1,12/19/13,UPS,$105.74 ,$0.00 ,$105.74 
+422,12/15/13,CAR_ALARM,Amazon.com,new,mnpkits,$0.00 ,$6.00 ,1,12/16/13,DHL,$6.00 ,$0.00 ,$6.00 
+423,12/24/13,ABIS_BOOK,Amazon.com,new,Amazon.com,$16.00 ,$10.93 ,1,12/26/13,LASERSHIP,$10.93 ,$0.77 ,$11.70 
+424,12/24/13,ABIS_BOOK,Amazon.com,used good,ThriftBooks - Sierra Nevada,$17.00 ,$0.02 ,1,12/24/13,USPS,$0.02 ,$0.00 ,$0.02 
+425,12/24/13,ABIS_BOOK,Amazon.com,new,Amazon.com,$27.00 ,$17.76 ,1,12/26/13,LASERSHIP,$17.76 ,$1.24 ,$19.00 
+426,12/30/13,CELLULAR_PHONE_CASE,Amazon.com,new,Hartop Direct,$0.00 ,$1.29 ,1,12/30/13,USPS,$1.29 ,$0.00 ,$1.29 
+427,12/30/13,CELLULAR_PHONE_CASE,Amazon.com,new,Everydaysource,$3.41 ,$0.21 ,1,1/1/14,DHL Global Mail,$0.21 ,$0.00 ,$0.21 
+428,12/30/13,ABIS_BOOK,Amazon.com,used verygood,Better World Books,$24.95 ,$4.19 ,1,12/31/13,USPS,$4.19 ,$0.00 ,$4.19 
+429,12/30/13,ABIS_BOOK,Amazon.com,used verygood,excelsior60,$19.95 ,$11.00 ,1,12/30/13,USPS,$11.00 ,$0.00 ,$11.00 
+430,1/9/14,KITCHEN,Amazon.com,new,Amazon.com,$59.99 ,$0.00 ,1,1/10/14,USPS,$0.00 ,$0.00 ,$0.00 
+431,1/13/14,TOOLS,Amazon.com,new,Amazon.com,$7.00 ,$5.88 ,1,1/14/14,USPS,$5.88 ,$0.41 ,$6.29 
+432,1/13/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$21.95 ,$15.60 ,1,1/14/14,USPS,$15.60 ,$1.09 ,$16.69 
+433,1/13/14,BOTTLE,Amazon.com,new,Amazon.com,$6.99 ,$3.99 ,1,1/14/14,USPS,$3.99 ,$0.28 ,$4.27 
+434,1/23/14,CELLULAR_PHONE_CASE,Amazon.com,new,G2LIFE,$10.59 ,$0.14 ,1,1/23/14,China Post,$0.14 ,$0.00 ,$0.14 
+435,2/3/14,OUTDOOR_LIVING,Amazon.com,new,Amazon.com,$249.99 ,$219.99 ,1,2/4/14,UPS,$219.99 ,$15.40 ,$235.39 
+436,2/8/14,SHOES,Amazon.com,new,Amazon.com,$59.00 ,$46.63 ,1,2/9/14,USPS,$46.63 ,$0.00 ,$46.63 
+437,2/9/14,SHOES,Amazon.com,new,Amazon.com,$69.95 ,$55.31 ,1,2/10/14,USPS,$55.31 ,$0.00 ,$55.31 
+438,3/6/14,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$99.00 ,$86.71 ,1,3/6/14,USPS,$86.71 ,$6.07 ,$92.78 
+439,3/6/14,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$59.99 ,$37.97 ,0,,,$0.00 ,$0.00 ,$0.00 
+440,3/14/14,HOME,Amazon.com,new,Amazon.com,$16.99 ,$11.97 ,1,3/14/14,USPS,$11.97 ,$0.84 ,$12.81 
+441,3/14/14,HOME,Amazon.com,new,Ebuy4less,$39.50 ,$18.99 ,1,3/14/14,USPS,$18.99 ,$0.00 ,$18.99 
+442,3/18/14,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,High Sierra Store,$320.00 ,$121.43 ,1,3/19/14,USPS,$121.43 ,$8.50 ,$129.93 
+443,3/20/14,SHOES,Amazon.com,new,Amazon.com,$110.00 ,$97.99 ,1,3/20/14,UPS,$97.99 ,$0.00 ,$97.99 
+444,4/11/14,SPORTING_GOODS,Amazon.com,new,Wow N.P.,$138.00 ,$119.99 ,1,4/11/14,USPS,$119.99 ,$0.00 ,$119.99 
+445,7/8/14,ABIS_BOOK,Amazon.com,used good,apex_media,$42.95 ,$14.88 ,1,7/8/14,USPS,$14.88 ,$1.04 ,$15.92 
+446,7/12/14,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$100.00 ,1,7/12/14,,$100.00 ,$0.00 ,$100.00 
+447,7/12/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$44.99 ,$33.77 ,1,7/13/14,USPS,$33.77 ,$2.36 ,$36.13 
+448,7/12/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$24.99 ,$16.84 ,1,7/13/14,USPS,$16.84 ,$1.18 ,$18.02 
+449,8/14/14,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$47.81 ,1,8/14/14,,$47.81 ,$0.00 ,$47.81 
+450,9/2/14,OUTERWEAR,Amazon.com,new,Amazon.com,$200.00 ,$195.00 ,1,9/2/14,USPS,$195.00 ,$0.00 ,$195.00 
+451,9/4/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$148.00 ,$85.84 ,1,9/5/14,USPS,$85.84 ,$6.01 ,$91.85 
+452,9/4/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$19.95 ,$12.64 ,1,9/5/14,USPS,$12.64 ,$0.88 ,$13.52 
+453,9/6/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$20.99 ,$14.69 ,1,9/6/14,USPS,$14.69 ,$1.03 ,$15.72 
+454,9/6/14,ABIS_BOOK,Amazon.com,new,Amazon.com,$39.99 ,$29.50 ,1,9/6/14,USPS,$29.50 ,$2.07 ,$31.57 
+455,9/14/14,BOTTLE,Amazon.com,new,California Tools LLC,$0.00 ,$6.99 ,1,9/14/14,USPS,$6.99 ,$0.00 ,$6.99 
+456,9/23/14,APPAREL,Amazon.com,new,DARYA TRADING INC,$698.00 ,$199.00 ,1,9/24/14,USPS,$199.00 ,$0.00 ,$199.00 
+457,9/25/14,PANTS,Amazon.com,new,Amazon.com,$120.00 ,$78.00 ,1,9/26/14,USPS,$78.00 ,$0.00 ,$78.00 
+458,9/25/14,PANTS,Amazon.com,new,Amazon.com,$120.00 ,$78.00 ,1,9/26/14,USPS,$78.00 ,$0.00 ,$78.00 
+459,9/28/14,HAT,Amazon.com,new,Amazon.com,$12.00 ,$9.99 ,1,9/29/14,USPS,$9.99 ,$0.00 ,$9.99 
+460,10/8/14,HOME,Amazon.com,new,Amazon.com,$24.99 ,$19.95 ,1,10/10/14,FEDEX,$19.95 ,$1.40 ,$21.35 
+461,10/8/14,HARDWARE,Amazon.com,new,Amazon.com,$0.00 ,$12.29 ,1,10/10/14,FEDEX,$12.29 ,$0.86 ,$13.15 
+462,10/9/14,CELLULAR_PHONE_CASE,Amazon.com,new,Fanmis Watch,$33.99 ,$1.58 ,1,10/11/14,4PX,$1.58 ,$0.00 ,$1.58 
+463,10/10/14,PHONE_ACCESSORY,Amazon.com,new,Equinox Int,$0.00 ,$10.98 ,1,10/11/14,USPS,$10.98 ,$0.00 ,$10.98 
+464,10/11/14,ACCESSORY,Amazon.com,new,Kuldip LTD,$19.99 ,$3.49 ,1,10/12/14,Royal Mail,$3.49 ,$0.00 ,$3.49 
+465,10/11/14,,Amazon.com,new,Kuldip LTD,$19.99 ,$3.49 ,1,10/12/14,Royal Mail,$3.49 ,$0.00 ,$3.49 
+466,10/11/14,ACCESSORY,Amazon.com,new,Go Commando Gear,$13.99 ,$4.79 ,1,10/13/14,USPS,$4.79 ,$0.00 ,$4.79 
+467,10/16/14,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$8.99 ,$3.49 ,1,10/17/14,USPS,$3.49 ,$0.00 ,$3.49 
+468,10/16/14,HOME,Amazon.com,new,Amazon.com,$14.99 ,$14.99 ,1,10/17/14,USPS,$14.99 ,$1.05 ,$16.04 
+469,10/16/14,,Amazon.com,new,Deerso,$40.28 ,$19.40 ,1,10/17/14,USPS,$19.40 ,$0.00 ,$19.40 
+470,10/16/14,ACCESSORY,Amazon.com,new,Go Commando Gear,$13.99 ,$4.79 ,1,10/17/14,USPS,$4.79 ,$0.00 ,$4.79 
+471,10/17/14,LAB_SUPPLY,Amazon.com,new,"BQLZR(7-20 days delivery,Fast and free shippingÔºågreat customer service)",$0.00 ,$4.16 ,1,10/17/14,China Post,$4.16 ,$0.00 ,$4.16 
+472,10/23/14,CELLULAR_PHONE_CASE,Amazon.com,new,G2LIFE,$23.99 ,$1.69 ,1,10/24/14,China Post,$1.69 ,$0.00 ,$1.69 
+473,10/23/14,CELLULAR_PHONE_CASE,Amazon.com,new,FishingForDeals,$9.99 ,$1.58 ,1,10/25/14,Hong Kong Post,$1.58 ,$0.00 ,$1.58 
+474,10/24/14,OUTERWEAR,Amazon.com,new,Amazon.com,$200.00 ,$156.58 ,1,10/25/14,USPS,$156.58 ,$0.00 ,$156.58 
+475,11/1/14,CELLULAR_PHONE_CASE,Amazon.com,new,Eforcity,$29.90 ,$3.38 ,1,11/3/14,DHL Global Mail,$3.38 ,$0.00 ,$3.38 
+476,11/1/14,WIRELESS_ACCESSORY,Amazon.com,new,DeNA,$0.00 ,$1.99 ,1,11/1/14,USPS,$1.99 ,$0.00 ,$1.99 
+477,11/3/14,TOOLS,Amazon.com,new,Amazon.com,$20.76 ,$16.98 ,1,11/4/14,USPS,$16.98 ,$1.44 ,$18.42 
+478,11/3/14,TOOLS,Amazon.com,new,Micro-Tools,$5.32 ,$5.18 ,1,11/4/14,USPS,$5.18 ,$0.39 ,$5.57 
+479,11/4/14,LUGGAGE,Amazon.com,new,Torero Corporation,$0.00 ,$11.99 ,1,11/4/14,USPS,$11.99 ,$0.00 ,$11.99 
+480,11/15/14,WIRELESS_ACCESSORY,Amazon.com,new,greenlight wholesaler,$0.00 ,$1.26 ,1,11/16/14,Hongkong,$1.26 ,$0.00 ,$1.26 
+481,11/29/14,,Amazon.com,new,La Belle B Supply,$0.00 ,$6.49 ,1,12/1/14,USPS,$6.49 ,$0.00 ,$6.49 
+482,12/14/14,,Amazon.com,new,AmericaRx,$7.95 ,$6.65 ,1,12/15/14,USPS,$6.65 ,$0.00 ,$6.65 
+483,12/21/14,DOWNLOADABLE_VIDEO_GAME,Amazon.com,new,Amazon.com Services LLC,$19.99 ,$4.99 ,1,12/21/14,,$4.99 ,$0.35 ,$5.34 
+484,12/22/14,PERSONAL_CARE_APPLIANCE,Amazon.com,new,dzt1968 ‚òÄChristmas discounts up to 90%,$8.87 ,$2.71 ,1,12/22/14,Other,$2.71 ,$0.00 ,$2.71 
+485,12/22/14,HEALTH_PERSONAL_CARE,Amazon.com,new,"Rock Ridge Sales, Inc",$4.19 ,$4.93 ,1,12/24/14,USPS,$4.93 ,$0.00 ,$4.93 
+486,12/29/14,HEALTH_PERSONAL_CARE,Amazon.com,new,ColorYourLife,$0.00 ,$9.49 ,1,12/30/14,USPS,$9.49 ,$0.00 ,$9.49 
+487,12/29/14,CAMERA_OTHER_ACCESSORIES,Amazon.com,new,ColorYourLife,$11.99 ,$6.99 ,1,12/30/14,USPS,$6.99 ,$0.00 ,$6.99 
+488,12/30/14,WIRELESS_ACCESSORY,Amazon.com,new,VicTsingDirect,$49.99 ,$15.99 ,1,12/31/14,USPS,$15.99 ,$0.00 ,$15.99 
+489,1/13/15,BISS,Amazon.com,new,ToolMall,$0.00 ,$7.99 ,1,1/14/15,USPS,$7.99 ,$0.00 ,$7.99 
+490,1/15/15,CELLULAR_PHONE,Amazon.com,new,"Wireless Experts, Inc.",$79.99 ,$21.54 ,1,1/16/15,USPS,$21.54 ,$1.83 ,$23.37 
+491,1/30/15,ART_AND_CRAFT_SUPPLY,Amazon.com,new,Open Bay Trading Co.,$0.00 ,$4.99 ,1,1/31/15,USPS,$4.99 ,$0.00 ,$4.99 
+492,1/31/15,WIRELESS_ACCESSORY,Amazon.com,new,Patozon,$29.99 ,$15.99 ,1,1/31/15,USPS,$15.99 ,$0.00 ,$15.99 
+493,2/3/15,BAG,Amazon.com,new,Amazon.com,$120.00 ,$50.99 ,1,2/4/15,UPS,$50.99 ,$3.57 ,$54.56 
+494,2/15/15,PERSONAL_CARE_APPLIANCE,Amazon.com,new,,$0.00 ,$2.50 ,1,2/15/15,USPS,$2.50 ,$0.00 ,$2.50 
+495,2/15/15,SPORTING_GOODS,Amazon.com,new,BIGFLY,$0.00 ,$7.52 ,1,2/15/15,USPS,$7.52 ,$0.00 ,$7.52 
+496,2/15/15,AUTO_ACCESSORY,Amazon.com,new,TriStateValue,$7.23 ,$6.35 ,1,2/15/15,USPS,$6.35 ,$0.00 ,$6.35 
+497,2/15/15,HOME_BED_AND_BATH,Amazon.com,new,Insole Dept,$3.83 ,$6.59 ,1,2/18/15,USPS,$6.59 ,$0.00 ,$6.59 
+498,2/17/15,BEAUTY,Amazon.com,new,,$17.95 ,$13.95 ,2,2/17/15,USPS,$27.90 ,$0.00 ,$27.90 
+499,3/15/15,KITCHEN,Amazon.com,new,Amazon.com,$29.89 ,$13.79 ,1,3/15/15,USPS,$13.79 ,$0.97 ,$14.76 
+500,3/15/15,OUTERWEAR,Amazon.com,new,Amazon.com,$400.00 ,$241.92 ,1,3/15/15,USPS,$241.92 ,$0.00 ,$241.92 
+501,3/15/15,FLASH_MEMORY,Amazon.com,new,Amazon.com,$0.00 ,$16.99 ,1,3/16/15,USPS,$16.99 ,$1.19 ,$18.18 
+502,4/4/15,PHONE_ACCESSORY,Amazon.com,new,Equinox Int,$0.00 ,$8.99 ,1,4/5/15,USPS,$8.99 ,$0.00 ,$8.99 
+503,4/4/15,CELLULAR_PHONE_CASE,Amazon.com,new,Eforcity,$19.99 ,$3.29 ,2,4/6/15,DHL Global Mail,$6.58 ,$0.00 ,$6.58 
+504,4/11/15,PANTS,Amazon.com,new,Match_Garments,$0.00 ,$17.99 ,1,4/12/15,LASERSHIP,$17.99 ,$0.00 ,$17.99 
+505,4/12/15,PANTS,Amazon.com,new,Match_Garments,$0.00 ,$17.99 ,1,4/12/15,LASERSHIP,$17.99 ,$0.00 ,$17.99 
+506,4/21/15,CELLULAR_PHONE_CASE,Amazon.com,new,Eforcity,$19.99 ,$3.29 ,2,4/22/15,DHL Global Mail,$6.58 ,$0.00 ,$6.58 
+507,4/21/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Naturtint USA,$107.94 ,$41.94 ,1,4/22/15,USPS,$41.94 ,$0.00 ,$41.94 
+508,4/29/15,ABIS_BOOK,Amazon.com,used mint,Owls Book Sales,$70.00 ,$18.55 ,1,4/30/15,DHL Global Mail,$18.55 ,$0.00 ,$18.55 
+509,4/30/15,ABIS_BOOK,Amazon.com,used mint,Used Books Outlet,$17.00 ,$0.01 ,1,5/1/15,DHL Global Mail,$0.01 ,$0.00 ,$0.01 
+510,5/2/15,ABIS_BOOK,Amazon.com,used mint,ThriftBooks - Squared,$14.99 ,$0.58 ,1,5/4/15,DHL Global Mail,$0.58 ,$0.00 ,$0.58 
+511,5/9/15,AUTO_PART,Amazon.com,new,Amazon.com,$22.09 ,$17.72 ,1,5/10/15,USPS,$17.72 ,$1.24 ,$18.96 
+512,5/9/15,AUTO_PART,Amazon.com,new,Amazon.com,$30.67 ,$19.95 ,1,5/10/15,USPS,$19.95 ,$1.40 ,$21.35 
+513,5/9/15,AUTO_PART,Amazon.com,new,Amazon.com,$37.14 ,$13.37 ,1,5/10/15,USPS,$13.37 ,$0.94 ,$14.31 
+514,5/9/15,AUTO_PART,Amazon.com,new,Amazon.com,$22.09 ,$15.58 ,1,5/10/15,USPS,$15.58 ,$1.09 ,$16.67 
+515,5/9/15,AUTO_PART,Amazon.com,new,Amazon.com,$25.76 ,$16.29 ,1,5/10/15,USPS,$16.29 ,$1.14 ,$17.43 
+516,5/18/15,HOME,Amazon.com,new,Ebuy4less,$39.50 ,$18.99 ,1,5/19/15,USPS,$18.99 ,$0.00 ,$18.99 
+517,5/19/15,HOME,Amazon.com,new,Ebuy4less,$39.50 ,$18.99 ,1,5/19/15,USPS,$18.99 ,$0.00 ,$18.99 
+518,6/2/15,,Amazon.com,new,PremiumBatteries,$0.00 ,$4.95 ,1,6/3/15,AMZN_US,$4.95 ,$0.00 ,$4.95 
+519,6/7/15,ABIS_BOOK,Amazon.com,used mint,indoobestsellers,$22.00 ,$3.80 ,1,6/9/15,USPS,$3.80 ,$0.00 ,$3.80 
+520,6/15/15,ABIS_BOOK,Amazon.com,used verygood,4books7,$13.00 ,$5.00 ,1,6/16/15,USPS,$5.00 ,$0.00 ,$5.00 
+521,6/16/15,ABIS_BOOK,Amazon.com,used mint,ThriftBooks - Silver Arch,$30.00 ,$0.04 ,1,6/17/15,OSM,$0.04 ,$0.00 ,$0.04 
+522,6/16/15,ABIS_BOOK,Amazon.com,used verygood,Housing Works Online Bookstore,$17.00 ,$1.16 ,1,6/17/15,Other,$1.16 ,$0.00 ,$1.16 
+523,6/18/15,ABIS_BOOK,Amazon.com,new,Amazon.com,$3.00 ,$1.00 ,1,6/19/15,USPS,$1.00 ,$0.07 ,$1.07 
+524,7/5/15,HAIR_STYLING_AGENT,Amazon.com,new,SUNDANCE Beauty,$0.00 ,$14.73 ,1,7/6/15,USPS,$14.73 ,$0.00 ,$14.73 
+525,7/12/15,HEALTH_PERSONAL_CARE,Amazon.com,new,ZogoSportz,$89.99 ,$49.99 ,1,7/12/15,AMZN_US,$49.99 ,$0.00 ,$49.99 
+526,7/21/15,KITCHEN,Amazon.com,new,Amazon.com,$33.40 ,$14.88 ,1,7/21/15,USPS,$14.88 ,$1.04 ,$15.92 
+527,7/21/15,KITCHEN,Amazon.com,new,Amazon.com,$41.39 ,$22.24 ,1,7/21/15,USPS,$22.24 ,$1.42 ,$23.66 
+528,7/21/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$21.21 ,$13.38 ,3,7/21/15,USPS,$40.14 ,$0.00 ,$40.14 
+529,7/24/15,ABIS_BOOK,Amazon.com,used verygood,BigHeartedBooks,$19.95 ,$4.54 ,1,7/26/15,USPS,$4.54 ,$0.00 ,$4.54 
+530,7/24/15,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,Amazon.com,$25.99 ,$21.22 ,1,7/24/15,AMZN_US,$21.22 ,$1.49 ,$22.71 
+531,7/24/15,ABIS_BOOK,Amazon.com,used mint,Juni.0614,$301.95 ,$10.00 ,1,7/27/15,USPS,$10.00 ,$0.00 ,$10.00 
+532,7/24/15,ABIS_BOOK,Amazon.com,used good,ThriftBooks - Yankee Clipper,$66.95 ,$1.78 ,1,7/27/15,DHL Global Mail,$1.78 ,$0.00 ,$1.78 
+533,7/24/15,ABIS_BOOK,Amazon.com,used mint,Holistic Distribution,$14.00 ,$6.99 ,1,7/26/15,USPS,$6.99 ,$0.00 ,$6.99 
+534,8/2/15,ABIS_BOOK,Amazon.com,new,BuyGreatStuff,$0.00 ,$14.23 ,1,8/3/15,Newgistics,$14.23 ,$0.00 ,$14.23 
+535,8/18/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$7.69 ,1,8/19/15,USPS,$7.69 ,$0.00 ,$7.69 
+536,8/18/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$23.99 ,$11.97 ,1,8/19/15,USPS,$11.97 ,$0.00 ,$11.97 
+537,8/18/15,VITAMIN,Amazon.com,new,Amazon.com,$14.99 ,$7.99 ,1,8/19/15,USPS,$7.99 ,$0.00 ,$7.99 
+538,8/18/15,HEADPHONES,Amazon.com,new,Amazon.com,$39.99 ,$22.99 ,1,8/19/15,USPS,$22.99 ,$1.61 ,$24.60 
+539,8/18/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$18.99 ,$10.39 ,1,8/19/15,USPS,$10.39 ,$0.00 ,$10.39 
+540,8/18/15,CABLE_OR_ADAPTER,Amazon.com,new,KabelDirekt Products,$8.99 ,$8.99 ,1,8/19/15,USPS,$8.99 ,$0.00 ,$8.99 
+541,8/22/15,COMPUTER_ADD_ON,Amazon.com,new,Amazon.com,$5.09 ,$4.49 ,1,8/22/15,AMZN_US,$4.49 ,$0.31 ,$4.80 
+542,8/22/15,WIRELESS_ACCESSORY,Amazon.com,new,KashTechnology,$0.00 ,$9.94 ,1,8/23/15,USPS,$9.94 ,$0.00 ,$9.94 
+543,8/22/15,,Amazon.com,new,iXCC,$19.99 ,$5.99 ,1,8/24/15,UPS,$5.99 ,$0.00 ,$5.99 
+544,8/30/15,BOOKS_1973_AND_LATER,Amazon.com,used verygood,ThriftBooks - Motor City,$0.00 ,$0.01 ,1,8/31/15,DHL Global Mail,$0.01 ,$0.00 ,$0.01 
+545,9/5/15,,Amazon.com,new,aLLreLi,$39.98 ,$10.99 ,1,9/6/15,AMZN_US,$10.99 ,$0.00 ,$10.99 
+546,9/5/15,KEYBOARDS,Amazon.com,new,AnkerDirect,$0.00 ,$25.99 ,1,9/6/15,AMZN_US,$25.99 ,$0.00 ,$25.99 
+547,9/9/15,COMPUTER_INPUT_DEVICE,Amazon.com,new,Hippidion.US.Store,$0.00 ,$9.97 ,1,9/10/15,AMZN_US,$9.97 ,$0.00 ,$9.97 
+548,9/14/15,OUTDOOR_LIVING,Amazon.com,new,ePest,$0.00 ,$104.87 ,1,9/15/15,FedEx,$104.87 ,$0.00 ,$104.87 
+549,9/19/15,CABLE_OR_ADAPTER,Amazon.com,new,Cable Matters,$22.99 ,$9.99 ,1,9/20/15,USPS,$9.99 ,$0.00 ,$9.99 
+550,9/29/15,ABIS_BOOK,Amazon.com,new,Amazon.com,$49.99 ,$26.27 ,1,9/29/15,USPS,$26.27 ,$1.84 ,$28.11 
+551,10/5/15,PANTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$14.99 ,1,10/7/15,USPS,$14.99 ,$0.00 ,$14.99 
+552,10/5/15,PANTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$14.99 ,1,10/7/15,USPS,$14.99 ,$0.00 ,$14.99 
+553,10/19/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$23.99 ,$11.97 ,2,10/19/15,USPS,$23.94 ,$0.00 ,$23.94 
+554,10/23/15,HOME,Amazon.com,new,Stakich Inc,$0.00 ,$10.90 ,1,10/24/15,AMZN_US,$10.90 ,$0.00 ,$10.90 
+555,10/28/15,CONSUMER_ELECTRONICS,Amazon.com,new,Big Illusion Jewelry Pack,$9.95 ,$3.04 ,1,10/28/15,USPS,$3.04 ,$0.00 ,$3.04 
+556,10/31/15,HEALTH_PERSONAL_CARE,Amazon.com,new,Plant Guru Inc.,$8.99 ,$8.99 ,1,11/2/15,USPS,$8.99 ,$0.63 ,$9.62 
+557,11/9/15,HOME,Amazon.com,new,Amazon.com,$6.99 ,$6.99 ,1,11/10/15,USPS,$6.99 ,$0.49 ,$7.48 
+558,12/2/15,TOOLS,Amazon.com,new,10 Dollar Wholesale,$0.00 ,$10.99 ,1,12/3/15,USPS,$10.99 ,$0.00 ,$10.99 
+559,12/2/15,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$11.99 ,$10.58 ,1,12/2/15,USPS,$10.58 ,$0.74 ,$11.32 
+560,12/2/15,HARDWARE,Amazon.com,new,Amazon.com,$4.19 ,$3.47 ,1,12/2/15,USPS,$3.47 ,$0.24 ,$3.71 
+561,12/2/15,,Amazon.com,new,BlueMart,$10.52 ,$7.17 ,1,12/2/15,USPS,$7.17 ,$0.00 ,$7.17 
+562,12/7/15,HOME,Amazon.com,new,Amazon.com,$92.00 ,$45.99 ,1,12/7/15,UPS,$45.99 ,$3.22 ,$49.21 
+563,12/11/15,HOME,Amazon.com,new,Amazon.com,$92.00 ,$45.99 ,1,12/11/15,USPS,$45.99 ,$3.22 ,$49.21 
+564,12/11/15,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$7.95 ,1,12/14/15,AMZN_US,$7.95 ,$0.00 ,$7.95 
+565,12/11/15,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$7.95 ,1,12/12/15,UPS,$7.95 ,$0.00 ,$7.95 
+566,12/15/15,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$7.95 ,1,12/16/15,USPS,$7.95 ,$0.00 ,$7.95 
+567,12/17/15,ACCESSORY,Amazon.com,new,Warmen Gloves,$129.00 ,$33.99 ,1,12/17/15,USPS,$33.99 ,$0.00 ,$33.99 
+568,12/17/15,ACCESSORY,Amazon.com,new,Warmen Gloves,$129.00 ,$33.99 ,1,12/20/15,UPS,$33.99 ,$0.00 ,$33.99 
+569,12/23/15,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$50.00 ,1,12/23/15,,$50.00 ,$0.00 ,$50.00 
+570,12/29/15,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$5.99 ,1,12/29/15,LASERSHIP,$5.99 ,$0.00 ,$5.99 
+571,12/29/15,BEAUTY,Amazon.com,new,Amazon.com,$69.99 ,$59.95 ,1,12/29/15,LASERSHIP,$59.95 ,$4.20 ,$64.15 
+572,12/29/15,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$5.99 ,1,12/29/15,LASERSHIP,$5.99 ,$0.00 ,$5.99 
+573,1/4/16,PANTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$14.99 ,1,1/5/16,USPS,$14.99 ,$0.00 ,$14.99 
+574,1/4/16,PANTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$14.99 ,1,1/5/16,USPS,$14.99 ,$0.00 ,$14.99 
+575,1/12/16,HOME_LIGHTING_ACCESSORY,Amazon.com,new,JacobsParts,$0.00 ,$13.95 ,1,1/13/16,USPS,$13.95 ,$0.00 ,$13.95 
+576,1/19/16,SHOES,Amazon.com,new,Amazon.com,$100.00 ,$70.58 ,1,1/19/16,USPS,$70.58 ,$0.00 ,$70.58 
+577,1/19/16,SHOES,Amazon.com,new,Amazon.com,$100.00 ,$73.40 ,1,1/19/16,UPS,$73.40 ,$0.00 ,$73.40 
+578,1/21/16,WIRELESS_ACCESSORY,Amazon.com,new,Caseology Official Store,$19.99 ,$8.99 ,1,1/26/16,AMZN_US,$8.99 ,$0.00 ,$8.99 
+579,2/2/16,BEAUTY,Amazon.com,new,Amazon.com,$21.99 ,$19.97 ,2,2/3/16,LASERSHIP,$39.94 ,$2.80 ,$42.74 
+580,2/14/16,ABIS_DOWNLOADABLE_SOFTWARE,Amazon.com,new,Amazon.com Services LLC,$0.00 ,$0.00 ,1,2/14/16,,$0.00 ,$0.00 ,$0.00 
+581,2/15/16,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$21.91 ,$11.09 ,1,2/21/16,USPS,$11.09 ,$0.78 ,$11.87 
+582,2/16/16,SHORTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$11.89 ,1,2/17/16,USPS,$11.89 ,$0.00 ,$11.89 
+583,2/16/16,SHORTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$11.89 ,1,2/17/16,USPS,$11.89 ,$0.00 ,$11.89 
+584,2/24/16,CE_ACCESSORY,Amazon.com,new,Amazon.com,$4.99 ,$4.45 ,1,2/26/16,AMZN_US,$4.45 ,$0.31 ,$4.76 
+585,2/24/16,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$24.99 ,$9.89 ,1,2/25/16,UPS,$9.89 ,$0.69 ,$10.58 
+586,2/24/16,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$119.99 ,$74.99 ,1,2/26/16,AMZN_US,$74.99 ,$5.25 ,$80.24 
+587,2/24/16,COMPUTER,Amazon.com,new,Store4PC,$14.99 ,$6.99 ,1,2/26/16,AMZN_US,$6.99 ,$0.00 ,$6.99 
+588,2/26/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$17.53 ,$11.49 ,1,2/27/16,AMZN_US,$11.49 ,$0.80 ,$12.29 
+589,2/29/16,RAM_MEMORY,Amazon.com,new,Amazon.com,$109.00 ,$65.59 ,1,2/29/16,USPS,$65.59 ,$4.59 ,$70.18 
+590,2/29/16,HEADPHONES,Amazon.com,new,Maubi Health,$0.00 ,$10.00 ,1,2/29/16,USPS,$10.00 ,$0.00 ,$10.00 
+591,2/29/16,,Amazon.com,new,Big Blue Supplies,$5.95 ,$7.99 ,1,2/29/16,USPS,$7.99 ,$0.00 ,$7.99 
+592,3/1/16,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Store4PC,$24.99 ,$9.99 ,1,3/2/16,USPS,$9.99 ,$0.00 ,$9.99 
+593,3/3/16,,Amazon.com,new,EAmazing,$47.00 ,$7.49 ,1,3/4/16,USPS,$7.49 ,$0.00 ,$7.49 
+594,3/3/16,RAM_MEMORY,Amazon.com,new,Amazon.com,$177.99 ,$63.98 ,1,3/4/16,AMZN_US,$63.98 ,$4.48 ,$68.46 
+595,3/7/16,SHORTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$11.89 ,1,3/7/16,USPS,$11.89 ,$0.00 ,$11.89 
+596,3/13/16,SYSTEM_POWER_DEVICE,Amazon.com,new,Inateck Online,$0.00 ,$14.99 ,1,3/15/16,USPS,$14.99 ,$0.00 ,$14.99 
+597,3/13/16,,Amazon.com,new,AllSmartLife,$0.00 ,$19.99 ,1,3/15/16,USPS,$19.99 ,$0.00 ,$19.99 
+598,3/14/16,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$119.99 ,$79.99 ,1,3/14/16,UPS,$79.99 ,$5.60 ,$85.59 
+599,3/18/16,CONSUMER_ELECTRONICS,Amazon.com,new,Claybox Limited US,$32.99 ,$10.99 ,1,3/19/16,AMZN_US,$10.99 ,$0.00 ,$10.99 
+600,3/24/16,SPORTING_GOODS,Amazon.com,new,Fittest Pro USA,$29.99 ,$17.99 ,1,3/26/16,USPS,$17.99 ,$0.00 ,$17.99 
+601,3/24/16,GROCERY,Amazon.com,new,Amazon.com,$0.00 ,$7.92 ,1,3/26/16,AMZN_US,$7.92 ,$0.00 ,$7.92 
+602,3/27/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$18.99 ,$9.28 ,1,3/28/16,UPS,$9.28 ,$0.00 ,$9.28 
+603,3/27/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$8.99 ,1,3/28/16,AMZN_US,$8.99 ,$0.00 ,$8.99 
+604,3/27/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$23.99 ,$11.32 ,2,3/28/16,UPS,$22.64 ,$0.00 ,$22.64 
+605,3/28/16,SHIRT,Amazon.com,new,Teslagear USA,$79.98 ,$9.98 ,1,3/28/16,AMZN_US,$9.98 ,$0.00 ,$9.98 
+606,3/28/16,SHIRT,Amazon.com,new,Teslagear USA,$79.98 ,$9.98 ,1,3/31/16,USPS,$9.98 ,$0.00 ,$9.98 
+607,3/28/16,SHIRT,Amazon.com,new,Teslagear USA,$79.98 ,$9.98 ,1,3/28/16,AMZN_US,$9.98 ,$0.00 ,$9.98 
+608,4/17/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Nutri Catalog,$21.40 ,$12.82 ,1,4/18/16,AMZN_US,$12.82 ,$0.00 ,$12.82 
+609,4/18/16,BEAUTY,Amazon.com,new,Amazon.com,$24.49 ,$14.82 ,1,4/19/16,AMZN_US,$14.82 ,$1.04 ,$15.86 
+610,4/18/16,KITCHEN,Amazon.com,new,OneCountryShop Inc,$0.00 ,$15.95 ,1,4/19/16,UPS,$15.95 ,$0.00 ,$15.95 
+611,4/22/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.47 ,$11.00 ,1,4/23/16,AMZN_US,$11.00 ,$0.00 ,$11.00 
+612,4/22/16,SHIRT,Amazon.com,new,S Gear,$79.98 ,$9.98 ,1,4/23/16,AMZN_US,$9.98 ,$0.00 ,$9.98 
+613,4/22/16,DIETARY_SUPPLEMENTS,Amazon.com,new,Swanson Health Products,$0.00 ,$24.98 ,1,4/22/16,USPS,$24.98 ,$0.00 ,$24.98 
+614,5/2/16,OUTERWEAR,Amazon.com,new,Amazon.com,$0.00 ,$13.22 ,1,5/3/16,AMZN_US,$13.22 ,$0.00 ,$13.22 
+615,5/5/16,KITCHEN,Amazon.com,new,Amazon.com,$44.00 ,$27.49 ,1,5/6/16,AMZN_US,$27.49 ,$1.92 ,$29.41 
+616,5/26/16,,Amazon.com,new,GoBetter Official,$0.00 ,$11.50 ,1,5/27/16,AMZN_US,$11.50 ,$0.00 ,$11.50 
+617,6/5/16,,Amazon.com,new,Teslagear Inc.,$0.00 ,$9.98 ,1,6/6/16,AMZN_US,$9.98 ,$0.00 ,$9.98 
+618,6/5/16,BOTTLE,Amazon.com,new,Together-Bottle,$0.00 ,$15.99 ,1,6/5/16,AMZN_US,$15.99 ,$0.00 ,$15.99 
+619,6/26/16,SPORTING_GOODS,Amazon.com,new,Amazon.com,$11.99 ,$7.99 ,1,6/26/16,AMZN_US,$7.99 ,$0.56 ,$8.55 
+620,6/26/16,WIRELESS_ACCESSORY,Amazon.com,new,Cimo,$0.00 ,$7.98 ,1,6/26/16,AMZN_US,$7.98 ,$0.56 ,$8.54 
+621,7/24/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$0.00 ,$11.99 ,1,7/25/16,AMZN_US,$11.99 ,$0.00 ,$11.99 
+622,7/24/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$0.00 ,$8.99 ,1,7/25/16,AMZN_US,$8.99 ,$0.00 ,$8.99 
+623,7/24/16,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$0.00 ,$9.49 ,1,7/25/16,AMZN_US,$9.49 ,$0.00 ,$9.49 
+624,8/30/16,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$0.00 ,$124.84 ,1,8/31/16,AMZN_US,$124.84 ,$8.74 ,$133.58 
+625,10/6/16,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$5.99 ,1,10/7/16,AMZN_US,$5.99 ,$0.00 ,$5.99 
+626,11/22/16,BEAUTY,Amazon.com,new,Amazon.com,$19.99 ,$9.99 ,1,11/22/16,AMZN_US,$9.99 ,$0.70 ,$10.69 
+627,11/22/16,BOTTLE,Amazon.com,new,Amazon.com,$10.99 ,$10.00 ,1,11/22/16,AMZN_US,$10.00 ,$0.70 ,$10.70 
+628,11/24/16,ABIS_BOOK,Amazon.com,new,Amazon.com,$21.95 ,$13.24 ,1,11/25/16,USPS,$13.24 ,$0.57 ,$13.81 
+629,11/24/16,ABIS_BOOK,Amazon.com,new,Amazon.com,$17.00 ,$9.55 ,1,11/25/16,USPS,$9.55 ,$0.41 ,$9.96 
+630,11/24/16,ABIS_BOOK,Amazon.com,new,Amazon.com,$3.00 ,$3.00 ,1,11/25/16,USPS,$3.00 ,$0.13 ,$3.13 
+631,11/25/16,BOTTLE,Amazon.com,new,Amazon.com,$10.99 ,$0.00 ,1,11/26/16,AMZN_US,$0.00 ,$0.00 ,$0.00 
+632,11/28/16,TEA,Amazon.com,new,Amazon.com,$26.04 ,$15.60 ,1,11/29/16,AMZN_US,$15.60 ,$0.00 ,$15.60 
+633,2/2/17,TEA,Amazon.com,new,Amazon.com,$31.92 ,$17.94 ,1,2/2/17,AMZN_US,$17.94 ,$0.00 ,$17.94 
+634,2/2/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$23.99 ,$10.36 ,2,2/2/17,USPS,$20.72 ,$0.00 ,$20.72 
+635,2/2/17,HEADPHONES,Amazon.com,new,Amazon.com,$99.00 ,$69.99 ,1,2/2/17,AMZN_US,$69.99 ,$4.81 ,$74.80 
+636,2/6/17,WATCH,Amazon.com,new,Amazon.com,$18.95 ,$10.09 ,1,2/6/17,AMZN_US,$10.09 ,$0.69 ,$10.78 
+637,2/16/17,SHIRT,Amazon.com,new,Teslagear Inc.,$89.98 ,$12.98 ,1,2/16/17,AMZN_US,$12.98 ,$0.00 ,$12.98 
+638,2/16/17,BEAUTY,Amazon.com,new,Better Shea Butter,$0.00 ,$12.95 ,1,2/16/17,AMZN_US,$12.95 ,$0.00 ,$12.95 
+639,2/20/17,SHIRT,Amazon.com,new,Teslagear Inc.,$89.98 ,$12.98 ,1,2/20/17,AMZN_US,$12.98 ,$0.00 ,$12.98 
+640,3/5/17,TABLECLOTH,Amazon.com,new,GeeG,$34.99 ,$10.99 ,1,3/6/17,AMZN_US,$10.99 ,$0.00 ,$10.99 
+641,3/23/17,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$25.00 ,1,3/23/17,,$25.00 ,$0.00 ,$25.00 
+642,4/5/17,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$22.19 ,1,4/6/17,AMZN_US,$22.19 ,$0.00 ,$22.19 
+643,4/6/17,BEAUTY,Amazon.com,new,A M K,$6.89 ,$9.47 ,1,4/9/17,UPS,$9.47 ,$0.00 ,$9.47 
+644,4/6/17,ABIS_BOOK,Amazon.com,new,Amazon.com,$23.00 ,$15.32 ,1,4/9/17,UPS,$15.32 ,$1.05 ,$16.37 
+645,4/9/17,GROCERY,Amazon.com,new,Amazon.com,$2.09 ,$1.48 ,2,4/10/17,USPS,$2.96 ,$0.00 ,$2.96 
+646,4/9/17,GROCERY,Amazon.com,new,Amazon.com,$0.00 ,$2.39 ,1,4/10/17,USPS,$2.39 ,$0.00 ,$2.39 
+647,4/9/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$6.78 ,2,4/10/17,USPS,$13.56 ,$0.00 ,$13.56 
+648,4/9/17,GROCERY,Amazon.com,new,Amazon.com,$4.99 ,$2.99 ,2,4/10/17,USPS,$5.98 ,$0.00 ,$5.98 
+649,4/17/17,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$22.19 ,1,4/17/17,AMZN_US,$22.19 ,$0.00 ,$22.19 
+650,4/17/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$0.00 ,2,4/17/17,AMZN_US,$0.00 ,$0.00 ,$0.00 
+651,4/17/17,GROCERY,Amazon.com,new,Amazon.com,$2.09 ,$0.00 ,2,4/17/17,AMZN_US,$0.00 ,$0.00 ,$0.00 
+652,4/17/17,GROCERY,Amazon.com,new,Amazon.com,$4.99 ,$0.00 ,2,4/17/17,AMZN_US,$0.00 ,$0.00 ,$0.00 
+653,4/17/17,GROCERY,Amazon.com,new,Amazon.com,$0.00 ,$0.00 ,1,4/17/17,AMZN_US,$0.00 ,$0.00 ,$0.00 
+654,4/17/17,KITCHEN,Amazon.com,new,Amazon.com,$0.00 ,$13.99 ,1,4/17/17,AMZN_US,$13.99 ,$0.96 ,$14.95 
+655,4/17/17,KITCHEN,Amazon.com,new,Carry Green,$0.00 ,$11.25 ,1,4/17/17,AMZN_US,$11.25 ,$0.00 ,$11.25 
+656,4/22/17,,Amazon.com,new,LightMe-US,$0.00 ,$8.99 ,1,4/23/17,AMZN_US,$8.99 ,$0.00 ,$8.99 
+657,4/26/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$13.32 ,1,4/27/17,AMZN_US,$13.32 ,$0.00 ,$13.32 
+658,4/26/17,VITAMIN,Amazon.com,new,Amazon.com,$9.21 ,$9.21 ,1,4/26/17,LASERSHIP,$9.21 ,$0.00 ,$9.21 
+659,4/26/17,VITAMIN,Amazon.com,new,Amazon.com,$12.11 ,$9.77 ,1,4/26/17,LASERSHIP,$9.77 ,$0.00 ,$9.77 
+660,4/30/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$32.90 ,$21.12 ,1,5/1/17,AMZN_US,$21.12 ,$0.00 ,$21.12 
+661,4/30/17,BATTERY,Amazon.com,new,Amazon.com,$12.49 ,$12.49 ,1,5/1/17,AMZN_US,$12.49 ,$0.86 ,$13.35 
+662,4/30/17,CHARGING_ADAPTER,Amazon.com,new,LotFancy,$24.99 ,$8.80 ,1,5/1/17,AMZN_US,$8.80 ,$0.00 ,$8.80 
+663,4/30/17,PANTS,Amazon.com,new,Amazon.com,$68.00 ,$34.99 ,1,5/1/17,AMZN_US,$34.99 ,$0.00 ,$34.99 
+664,4/30/17,PANTS,Amazon.com,new,Amazon.com,$68.00 ,$34.99 ,1,5/1/17,AMZN_US,$34.99 ,$0.00 ,$34.99 
+665,5/4/17,VITAMIN,Amazon.com,new,Amazon.com,$13.49 ,$7.79 ,1,5/4/17,AMZN_US,$7.79 ,$0.00 ,$7.79 
+666,5/4/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.96 ,$12.16 ,1,5/4/17,AMZN_US,$12.16 ,$0.00 ,$12.16 
+667,5/4/17,TEA,Amazon.com,new,Amazon.com,$5.99 ,$4.53 ,1,5/4/17,AMZN_US,$4.53 ,$0.00 ,$4.53 
+668,5/4/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$13.99 ,$9.34 ,1,5/4/17,AMZN_US,$9.34 ,$0.64 ,$9.98 
+669,5/13/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$13.32 ,1,5/14/17,AMZN_US,$13.32 ,$0.00 ,$13.32 
+670,5/13/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$48.95 ,$19.49 ,1,5/14/17,AMZN_US,$19.49 ,$0.00 ,$19.49 
+671,5/13/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$43.15 ,$18.20 ,1,5/14/17,AMZN_US,$18.20 ,$0.00 ,$18.20 
+672,5/25/17,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$25.49 ,1,5/26/17,AMZN_US,$25.49 ,$0.00 ,$25.49 
+673,5/30/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$9.99 ,$6.39 ,2,5/31/17,AMZN_US,$12.78 ,$0.00 ,$12.78 
+674,5/30/17,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$22.19 ,1,5/31/17,AMZN_US,$22.19 ,$0.00 ,$22.19 
+675,6/4/17,,Amazon.com,new,bestforus,$69.99 ,$20.99 ,1,6/5/17,AMZN_US,$20.99 ,$0.00 ,$20.99 
+676,6/5/17,KEYBOARDS,Amazon.com,new,Amazon.com,$39.99 ,$26.99 ,1,6/6/17,AMZN_US,$26.99 ,$1.86 ,$28.85 
+677,6/6/17,ABIS_MUSIC,Amazon.com,used verygood,Logosbooks 777,$23.98 ,$16.99 ,1,6/6/17,USPS,$16.99 ,$0.00 ,$16.99 
+678,6/11/17,SHIRT,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$13.49 ,1,6/12/17,AMZN_US,$13.49 ,$0.00 ,$13.49 
+679,6/11/17,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$49.99 ,$19.89 ,1,6/12/17,AMZN_US,$19.89 ,$1.37 ,$21.26 
+680,6/11/17,SHIRT,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$13.49 ,1,6/12/17,AMZN_US,$13.49 ,$0.00 ,$13.49 
+681,6/16/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$38.36 ,$24.87 ,1,6/17/17,USPS,$24.87 ,$0.00 ,$24.87 
+682,6/16/17,SHOES,Amazon.com,new,Amazon.com,$55.00 ,$29.99 ,1,6/17/17,AMZN_US,$29.99 ,$2.06 ,$32.05 
+683,6/21/17,SHOES,Amazon.com,new,SHOEBACCA,$0.00 ,$54.95 ,1,6/22/17,FedEx SmartPost,$54.95 ,$0.00 ,$54.95 
+684,6/26/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.49 ,$8.69 ,1,6/26/17,AMZN_US,$8.69 ,$0.00 ,$8.69 
+685,7/2/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$13.31 ,2,7/3/17,AMZN_US,$26.62 ,$0.00 ,$26.62 
+686,7/3/17,OUTDOOR_LIVING,Amazon.com,new,Amazon.com,$8.97 ,$8.97 ,1,7/5/17,AMZN_US,$8.97 ,$0.62 ,$9.59 
+687,7/7/17,ELECTRIC_FAN,Amazon.com,new,Amazon.com,$18.49 ,$12.59 ,1,7/7/17,AMZN_US,$12.59 ,$0.87 ,$13.46 
+688,7/10/17,HEALTH_PERSONAL_CARE,Amazon.com,new,GNC,$13.26 ,$13.26 ,1,7/11/17,UPS,$13.26 ,$0.00 ,$13.26 
+689,7/10/17,SHOES,Amazon.com,new,Amazon.com,$65.00 ,$42.99 ,1,7/11/17,UPS,$42.99 ,$0.00 ,$42.99 
+690,7/10/17,SHOES,Amazon.com,new,Amazon.com,$60.00 ,$38.64 ,1,7/11/17,UPS,$38.64 ,$0.00 ,$38.64 
+691,7/11/17,SHIRT,Amazon.com,new,Teslagear Inc.,$89.98 ,$13.98 ,1,7/12/17,USPS,$13.98 ,$0.00 ,$13.98 
+692,7/11/17,HOME,Amazon.com,new,The Chestnut,$0.00 ,$17.93 ,1,7/12/17,AMZN_US,$17.93 ,$0.00 ,$17.93 
+693,7/11/17,AUTO_PART,Amazon.com,new,Amazon.com,$0.00 ,$9.13 ,1,7/13/17,AMZN_US,$9.13 ,$0.63 ,$9.76 
+694,7/11/17,AUTO_PART,Amazon.com,new,Amazon.com,$32.20 ,$15.08 ,1,7/13/17,AMZN_US,$15.08 ,$1.04 ,$16.12 
+695,7/11/17,AUTO_PART,Amazon.com,new,Amazon.com,$21.26 ,$7.46 ,1,7/13/17,AMZN_US,$7.46 ,$0.51 ,$7.97 
+696,7/11/17,AUTO_PART,Amazon.com,new,Amazon.com,$15.88 ,$8.99 ,1,7/13/17,AMZN_US,$8.99 ,$0.62 ,$9.61 
+697,7/12/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Essential Oil Labs,$39.99 ,$10.00 ,1,7/13/17,AMZN_US,$10.00 ,$0.00 ,$10.00 
+698,7/12/17,,Amazon.com,new,ZANE HELLAS MED,$23.99 ,$17.99 ,1,7/13/17,AMZN_US,$17.99 ,$0.00 ,$17.99 
+699,7/13/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Precision Naturals,$0.00 ,$29.95 ,1,7/14/17,LASERSHIP,$29.95 ,$2.06 ,$32.01 
+700,7/14/17,HEALTH_PERSONAL_CARE,Amazon.com,new,ZQUARED,$0.00 ,$19.19 ,1,7/14/17,USPS,$19.19 ,$0.00 ,$19.19 
+701,7/14/17,VITAMIN,Amazon.com,new,Best Nest Wellness,$24.00 ,$21.95 ,1,7/15/17,LASERSHIP,$21.95 ,$0.00 ,$21.95 
+702,7/18/17,AUTO_ACCESSORY,Amazon.com,new,Amazon.com,$7.99 ,$9.26 ,1,7/18/17,AMZN_US,$9.26 ,$0.64 ,$9.90 
+703,7/18/17,AUTO_ACCESSORY,Amazon.com,new,KinderFluff,$34.99 ,$11.90 ,1,7/18/17,AMZN_US,$11.90 ,$0.00 ,$11.90 
+704,8/3/17,PAPER_PRODUCT,Amazon.com,new,Mitch's List,$18.78 ,$10.77 ,1,8/5/17,UPS,$10.77 ,$0.00 ,$10.77 
+705,8/10/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$13.29 ,2,8/11/17,AMZN_US,$26.58 ,$0.00 ,$26.58 
+706,8/10/17,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$13.42 ,1,8/11/17,AMZN_US,$13.42 ,$0.00 ,$13.42 
+707,8/14/17,BEAUTY,Amazon.com,new,Amazon.com,$36.99 ,$29.00 ,1,8/14/17,UPS,$29.00 ,$1.99 ,$30.99 
+708,8/14/17,BEAUTY,Amazon.com,new,Amazon.com,$69.99 ,$59.95 ,1,8/14/17,UPS,$59.95 ,$4.12 ,$64.07 
+709,8/14/17,HEALTH_PERSONAL_CARE,Amazon.com,new,BeautyBreeze,$68.00 ,$24.97 ,1,8/14/17,UPS,$24.97 ,$0.00 ,$24.97 
+710,8/14/17,BEAUTY,Amazon.com,new,Beauty drive,$12.41 ,$9.99 ,1,8/15/17,USPS,$9.99 ,$0.69 ,$10.68 
+711,8/17/17,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,Ceptics Direct,$9.99 ,$9.99 ,1,8/18/17,AMZN_US,$9.99 ,$0.00 ,$9.99 
+712,8/17/17,CHARGING_ADAPTER,Amazon.com,new,Amazon.com,$0.00 ,$8.99 ,1,8/18/17,AMZN_US,$8.99 ,$0.62 ,$9.61 
+713,8/17/17,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$6.99 ,1,8/18/17,AMZN_US,$6.99 ,$0.00 ,$6.99 
+714,8/17/17,SHIRT,Amazon.com,new,Teslagear Inc.,$89.98 ,$13.98 ,1,8/18/17,AMZN_US,$13.98 ,$0.00 ,$13.98 
+715,8/23/17,BEAUTY,Amazon.com,new,Amazon.com,$120.00 ,$55.45 ,1,8/24/17,UPS,$55.45 ,$3.81 ,$59.26 
+716,9/2/17,HOME,Amazon.com,new,The Chestnut,$0.00 ,$17.93 ,1,9/3/17,AMZN_US,$17.93 ,$0.00 ,$17.93 
+717,9/2/17,PRECISION_MEASURING,Amazon.com,new,Etekcity,$29.99 ,$9.97 ,1,9/2/17,LASERSHIP,$9.97 ,$0.00 ,$9.97 
+718,9/5/17,AUTO_PART,Amazon.com,new,Leader Accessories,$0.00 ,$11.99 ,1,9/6/17,USPS,$11.99 ,$0.00 ,$11.99 
+719,9/21/17,BEAUTY,Amazon.com,new,Maple Prime,$85.00 ,$45.02 ,1,9/24/17,UPS,$45.02 ,$0.00 ,$45.02 
+720,12/18/17,ACCESSORY,Amazon.com,new,Chelsea Lane Bodywear,$85.00 ,$85.00 ,1,12/18/17,USPS,$85.00 ,$0.00 ,$85.00 
+721,9/14/18,BEAUTY,Amazon.com,new,Amazon.com,$15.98 ,$12.98 ,1,9/16/18,UPS,$12.98 ,$0.86 ,$13.84 
+722,9/14/18,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$7.99 ,1,9/15/18,AMZN_US,$7.99 ,$0.00 ,$7.99 
+723,9/15/18,BEAUTY,Amazon.com,new,Maple Prime,$120.00 ,$53.33 ,1,9/16/18,UPS,$53.33 ,$3.53 ,$56.86 
+724,9/15/18,BEAUTY,Amazon.com,new,Amazon.com,$120.00 ,$53.34 ,1,9/16/18,UPS,$53.34 ,$3.53 ,$56.87 
+725,9/16/18,BEAUTY,Amazon.com,new,Amazon.com,$36.99 ,$29.95 ,1,9/17/18,AMZN_US,$29.95 ,$1.98 ,$31.93 
+726,9/16/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Precision Naturals,$34.95 ,$26.97 ,1,9/17/18,AMZN_US,$26.97 ,$1.79 ,$28.76 
+727,9/16/18,DIETARY_SUPPLEMENTS,Amazon.com,new,Left Coast Performance,$0.00 ,$30.97 ,1,9/17/18,AMZN_US,$30.97 ,$0.00 ,$30.97 
+728,9/19/18,BUILDING_MATERIAL,Amazon.com,new,Amazon.com,$6.39 ,$6.73 ,1,9/20/18,AMZN_US,$6.73 ,$0.45 ,$7.18 
+729,9/19/18,TOOLS,Amazon.com,new,Amazon.com,$27.99 ,$16.85 ,1,9/20/18,AMZN_US,$16.85 ,$1.12 ,$17.97 
+730,9/19/18,BEAUTY,Amazon.com,new,Stakich Inc,$0.00 ,$9.95 ,1,9/20/18,AMZN_US,$9.95 ,$0.00 ,$9.95 
+731,9/19/18,AUTO_PART,Amazon.com,new,Amazon.com,$15.88 ,$12.51 ,1,9/20/18,AMZN_US,$12.51 ,$0.83 ,$13.34 
+732,9/21/18,COMPUTER_COMPONENT,Amazon.com,new,ECO-FUSED,$19.99 ,$7.49 ,1,9/22/18,AMZN_US,$7.49 ,$0.00 ,$7.49 
+733,9/21/18,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$56.24 ,$34.61 ,1,9/22/18,AMZN_US,$34.61 ,$2.29 ,$36.90 
+734,9/24/18,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$89.99 ,$59.93 ,1,9/25/18,AMZN_US,$59.93 ,$3.97 ,$63.90 
+735,9/26/18,BATTERY,Amazon.com,new,Amazon.com,$9.99 ,$9.99 ,1,9/27/18,AMZN_US,$9.99 ,$0.66 ,$10.65 
+736,9/26/18,SPORTING_GOODS,Amazon.com,new,JP&M,$10.50 ,$12.72 ,1,9/27/18,AMZN_US,$12.72 ,$0.84 ,$13.56 
+737,9/26/18,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,AMIR Direct,$0.00 ,$19.99 ,1,9/27/18,UPS,$19.99 ,$0.00 ,$19.99 
+738,9/26/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$9.99 ,$9.99 ,1,9/27/18,AMZN_US,$9.99 ,$0.66 ,$10.65 
+739,9/26/18,PET_SUPPLIES,Amazon.com,new,Amazon.com,$11.00 ,$4.06 ,1,9/27/18,AMZN_US,$4.06 ,$0.27 ,$4.33 
+740,9/26/18,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,LePower,$0.00 ,$43.99 ,1,9/27/18,UPS,$43.99 ,$0.00 ,$43.99 
+741,9/26/18,HOME_LIGHTING_AND_LAMPS,Amazon.com,new,LePower,$0.00 ,$14.99 ,2,9/27/18,AMZN_US,$29.98 ,$0.00 ,$29.98 
+742,9/26/18,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,LE US,$0.00 ,$38.99 ,1,9/27/18,AMZN_US,$38.99 ,$0.00 ,$38.99 
+743,9/29/18,SHAMPOO,Amazon.com,new,Paisle Botanics‚Ñ¢,$48.50 ,$28.77 ,1,9/30/18,AMZN_US,$28.77 ,$1.43 ,$30.20 
+744,10/3/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$14.99 ,$13.27 ,1,10/4/18,AMZN_US,$13.27 ,$0.88 ,$14.15 
+745,10/3/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$13.65 ,$9.22 ,1,10/4/18,AMZN_US,$9.22 ,$0.61 ,$9.83 
+746,10/3/18,VITAMIN,Amazon.com,new,Amazon.com,$0.00 ,$7.96 ,1,10/5/18,AMZN_US,$7.96 ,$0.53 ,$8.49 
+747,10/3/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Wild Thera,$17.99 ,$14.99 ,1,10/5/18,AMZN_US,$14.99 ,$0.00 ,$14.99 
+748,10/3/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$9.99 ,$9.74 ,1,10/5/18,AMZN_US,$9.74 ,$0.65 ,$10.39 
+749,10/5/18,CONSUMER_ELECTRONICS,Amazon.com,new,Cable Matters,$14.99 ,$7.99 ,1,10/6/18,AMZN_US,$7.99 ,$0.53 ,$8.52 
+750,10/5/18,COMPUTER_ADD_ON,Amazon.com,new,Amazon.com,$9.99 ,$7.99 ,1,10/6/18,AMZN_US,$7.99 ,$0.53 ,$8.52 
+751,10/5/18,WIRELESS_ACCESSORY,Amazon.com,new,AnkerDirect,$0.00 ,$8.49 ,1,10/6/18,AMZN_US,$8.49 ,$0.56 ,$9.05 
+752,10/5/18,CELLULAR_PHONE_CASE,Amazon.com,new,Vaultskin US,$0.00 ,$25.99 ,2,10/6/18,AMZN_US,$51.98 ,$0.00 ,$51.98 
+753,10/8/18,HEALTH_PERSONAL_CARE,Amazon.com,new,MagSol Organics,$0.00 ,$14.95 ,1,10/8/18,AMZN_US,$14.95 ,$0.00 ,$14.95 
+754,10/9/18,KITCHEN,Amazon.com,new,Amazon.com,$145.00 ,$61.99 ,1,10/9/18,AMZN_US,$61.99 ,$4.11 ,$66.10 
+755,10/9/18,KITCHEN,Amazon.com,new,Pure Wellness Rx,$0.00 ,$7.50 ,1,10/9/18,AMZN_US,$7.50 ,$0.00 ,$7.50 
+756,10/9/18,OUTDOOR_RECREATION_PRODUCT,Amazon.com,new,MetaRetail,$10.95 ,$11.99 ,1,10/11/18,USPS,$11.99 ,$0.79 ,$12.78 
+757,10/9/18,,Amazon.com,new,My Shoe Supplies,$0.00 ,$13.65 ,1,10/11/18,USPS,$13.65 ,$0.00 ,$13.65 
+758,10/9/18,HOME,Amazon.com,new,My Shoe Supplies,$0.00 ,$8.39 ,1,10/11/18,USPS,$8.39 ,$0.00 ,$8.39 
+759,10/10/18,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$129.99 ,$109.99 ,1,10/11/18,USPS,$109.99 ,$7.29 ,$117.28 
+760,10/10/18,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$249.99 ,$227.99 ,1,10/10/18,AMZN_US,$227.99 ,$15.10 ,$243.09 
+761,10/15/18,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$249.99 ,$227.99 ,1,10/15/18,AMZN_US,$227.99 ,$15.10 ,$243.09 
+762,10/16/18,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$19.23 ,2,10/17/18,AMZN_US,$38.46 ,$0.00 ,$38.46 
+763,10/16/18,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$50.71 ,$50.71 ,1,10/18/18,AMZN_US,$50.71 ,$3.36 ,$54.07 
+764,10/17/18,ABIS_BOOK,Amazon.com,new,OptiLingo,$150.00 ,$53.99 ,1,10/18/18,USPS,$53.99 ,$3.58 ,$57.57 
+765,10/17/18,HEALTH_PERSONAL_CARE,Amazon.com,new,RAINBOW ABBY,$0.00 ,$7.99 ,1,10/18/18,AMZN_US,$7.99 ,$0.00 ,$7.99 
+766,10/21/18,SURVEILANCE_SYSTEMS,Amazon.com,new,Meinsa,$0.00 ,$19.99 ,1,10/22/18,AMZN_US,$19.99 ,$0.00 ,$19.99 
+767,10/21/18,SURVEILANCE_SYSTEMS,Amazon.com,new,Meinsa,$0.00 ,$6.99 ,1,10/22/18,AMZN_US,$6.99 ,$0.00 ,$6.99 
+768,10/21/18,CABLE_OR_ADAPTER,Amazon.com,new,Benair,$24.99 ,$9.99 ,2,10/22/18,AMZN_US,$19.98 ,$0.00 ,$19.98 
+769,10/21/18,CAMERA_OTHER_ACCESSORIES,Amazon.com,new,lolitech,$0.00 ,$7.99 ,1,10/22/18,AMZN_US,$7.99 ,$0.00 ,$7.99 
+770,10/21/18,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$37.98 ,$37.98 ,1,10/22/18,USPS,$37.98 ,$2.52 ,$40.50 
+771,10/24/18,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$0.00 ,$25.98 ,3,10/24/18,AMZN_US,$77.94 ,$5.16 ,$83.10 
+772,10/24/18,AV_FURNITURE,Amazon.com,new,YiChuangLian,$0.00 ,$11.99 ,1,10/25/18,AMZN_US,$11.99 ,$0.00 ,$11.99 
+773,10/24/18,CABLE_OR_ADAPTER,Amazon.com,new,Benair,$24.99 ,$9.99 ,2,10/24/18,AMZN_US,$19.98 ,$0.00 ,$19.98 
+774,10/24/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Drillbrush,$18.95 ,$11.95 ,1,10/24/18,AMZN_US,$11.95 ,$0.00 ,$11.95 
+775,10/24/18,FLASH_MEMORY,Amazon.com,new,Amazon.com,$14.99 ,$9.59 ,4,10/25/18,AMZN_US,$38.36 ,$2.56 ,$40.92 
+776,10/24/18,HEALTH_PERSONAL_CARE,Amazon.com,new,HOMKOM,$0.00 ,$10.99 ,1,10/25/18,AMZN_US,$10.99 ,$0.00 ,$10.99 
+777,10/28/18,ELECTRONIC_ADAPTER,Amazon.com,new,Cable Matters,$21.99 ,$11.99 ,1,10/30/18,AMZN_US,$11.99 ,$0.79 ,$12.78 
+778,10/28/18,CABLE_OR_ADAPTER,Amazon.com,new,SAMZHE,$0.00 ,$7.99 ,1,10/30/18,AMZN_US,$7.99 ,$0.00 ,$7.99 
+779,10/28/18,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$37.98 ,$37.98 ,1,10/29/18,AMZN_US,$37.98 ,$2.52 ,$40.50 
+780,11/4/18,COMPUTER_COMPONENT,Amazon.com,new,G-Union Group Limted,$0.00 ,$11.55 ,1,11/4/18,AMZN_US,$11.55 ,$0.77 ,$12.32 
+781,11/4/18,BEAUTY,Amazon.com,new,Quality Producer Direct,$0.00 ,$29.95 ,1,11/5/18,AMZN_US,$29.95 ,$1.98 ,$31.93 
+782,11/4/18,COMPUTER,Amazon.com,new,Amazon.com,$99.99 ,$99.99 ,1,11/6/18,AMZN_US,$99.99 ,$6.62 ,$106.61 
+783,11/4/18,KITCHEN,Amazon.com,new,Husky Mounts,$25.00 ,$13.99 ,1,11/6/18,AMZN_US,$13.99 ,$0.93 ,$14.92 
+784,11/5/18,CE_ACCESSORY,Amazon.com,new,SunmnDirect,$0.00 ,$7.99 ,1,11/6/18,AMZN_US,$7.99 ,$0.53 ,$8.52 
+785,11/5/18,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Golden Sport,$0.00 ,$15.99 ,1,11/6/18,AMZN_US,$15.99 ,$1.06 ,$17.05 
+786,11/5/18,TOOLS,Amazon.com,new,Yocice,$0.00 ,$8.99 ,1,11/6/18,AMZN_US,$8.99 ,$0.60 ,$9.59 
+787,11/6/18,KEYBOARDS,Amazon.com,new,Amazon.com,$99.00 ,$87.99 ,1,11/7/18,USPS,$87.99 ,$5.83 ,$93.82 
+788,11/6/18,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$79.00 ,$73.55 ,1,11/7/18,USPS,$73.55 ,$4.87 ,$78.42 
+789,11/6/18,CABLE_OR_ADAPTER,Amazon.com,new,SAMZHE,$0.00 ,$8.59 ,2,11/8/18,USPS,$17.18 ,$1.08 ,$18.26 
+790,11/7/18,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$49.99 ,$24.99 ,1,11/8/18,AMZN_US,$24.99 ,$1.66 ,$26.65 
+791,11/7/18,COMPUTER_COMPONENT,Amazon.com,new,chengmenghe,$0.00 ,$10.99 ,1,11/8/18,AMZN_US,$10.99 ,$0.73 ,$11.72 
+792,11/7/18,COMPUTER_COMPONENT,Amazon.com,new,LIEBIRD Rubber Products Factory,$0.00 ,$8.90 ,1,11/8/18,AMZN_US,$8.90 ,$0.53 ,$9.43 
+793,11/9/18,CABLE_OR_ADAPTER,Amazon.com,new,SAMZHE,$0.00 ,$7.99 ,1,11/10/18,AMZN_US,$7.99 ,$0.53 ,$8.52 
+794,11/11/18,CABLE_OR_ADAPTER,Amazon.com,new,Amazon.com,$13.99 ,$13.99 ,1,11/12/18,AMZN_US,$13.99 ,$0.93 ,$14.92 
+795,11/11/18,ELECTRONIC_ADAPTER,Amazon.com,new,Store4PC,$13.99 ,$5.99 ,1,11/12/18,AMZN_US,$5.99 ,$0.40 ,$6.39 
+796,11/11/18,TOOLS,Amazon.com,new,Yocice,$0.00 ,$9.89 ,1,11/12/18,AMZN_US,$9.89 ,$0.66 ,$10.55 
+797,11/11/18,COMPUTER_COMPONENT,Amazon.com,new,AUKEY Store US,$0.00 ,$12.99 ,1,11/12/18,USPS,$12.99 ,$0.82 ,$13.81 
+798,11/11/18,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$21.71 ,2,11/12/18,AMZN_US,$43.42 ,$0.00 ,$43.42 
+799,11/13/18,SHOES,Amazon.com,new,Amazon.com,$75.00 ,$45.99 ,1,11/14/18,AMZN_US,$45.99 ,$0.00 ,$45.99 
+800,11/13/18,SHOES,Amazon.com,new,Amazon.com,$64.95 ,$53.12 ,1,11/14/18,AMZN_US,$53.12 ,$0.00 ,$53.12 
+801,11/18/18,SHOES,Amazon.com,new,Amazon.com,$75.00 ,$45.99 ,1,11/20/18,AMZN_US,$45.99 ,$0.00 ,$45.99 
+802,11/18/18,SHOES,Amazon.com,new,Amazon.com,$64.95 ,$53.12 ,1,11/20/18,AMZN_US,$53.12 ,$0.00 ,$53.12 
+803,11/18/18,HEADPHONES,Amazon.com,new,Linsoul Audio,$59.99 ,$49.99 ,1,11/19/18,AMZN_US,$49.99 ,$3.11 ,$53.10 
+804,11/20/18,COMPUTER,Amazon.com,new,Amazon.com,$99.99 ,$99.99 ,1,11/20/18,AMZN_US,$99.99 ,$6.62 ,$106.61 
+805,11/20/18,KITCHEN,Amazon.com,new,Husky Mounts,$25.00 ,$13.99 ,1,11/21/18,AMZN_US,$13.99 ,$0.93 ,$14.92 
+806,11/23/18,COMPUTER_COMPONENT,Amazon.com,new,Gambolex US,$0.00 ,$3.90 ,1,11/27/18,Yun Express,$3.90 ,$0.26 ,$4.16 
+807,11/23/18,CE_ACCESSORY,Amazon.com,new,ZIZON,$0.00 ,$9.78 ,1,11/24/18,USPS,$9.78 ,$0.62 ,$10.40 
+808,11/23/18,COMPUTER_INPUT_DEVICE,Amazon.com,new,Amazon.com,$19.99 ,$19.99 ,1,11/24/18,USPS,$19.99 ,$1.32 ,$21.31 
+809,11/23/18,CE_ACCESSORY,Amazon.com,new,Husky Mounts,$19.99 ,$11.99 ,2,11/24/18,USPS,$23.98 ,$1.58 ,$25.56 
+810,11/26/18,BEAUTY,Amazon.com,new,"EntirelySkin, LLC",$28.99 ,$18.95 ,1,11/27/18,UPS,$18.95 ,$0.81 ,$19.76 
+811,11/26/18,BEAUTY,Amazon.com,new,Baetea,$39.99 ,$23.95 ,1,11/27/18,UPS,$23.95 ,$0.89 ,$24.84 
+812,11/26/18,HEALTH_PERSONAL_CARE,Amazon.com,new,MD Medical LLC,$12.58 ,$10.09 ,1,11/27/18,UPS,$10.09 ,$0.67 ,$10.76 
+813,11/27/18,SPORTING_GOODS,Amazon.com,new,Ruky Direct,$0.00 ,$8.99 ,1,11/29/18,AMZN_US,$8.99 ,$0.60 ,$9.59 
+814,12/2/18,CADDY,Amazon.com,new,EPFamily Direct,$0.00 ,$13.97 ,4,12/2/18,USPS,$55.88 ,$3.72 ,$59.60 
+815,12/2/18,BEAUTY,Amazon.com,new,Amazon.com,$11.97 ,$10.41 ,1,12/2/18,USPS,$10.41 ,$0.48 ,$10.89 
+816,12/2/18,BEAUTY,Amazon.com,new,Amazon.com,$6.89 ,$6.19 ,4,12/3/18,UPS,$24.76 ,$1.64 ,$26.40 
+817,12/7/18,AUTO_ACCESSORY,Amazon.com,new,EPFamily Direct,$42.87 ,$36.87 ,1,12/11/18,AMZN_US,$36.87 ,$2.44 ,$39.31 
+818,12/7/18,ELECTRONIC_ADAPTER,Amazon.com,new,Cable Matters,$41.99 ,$23.99 ,1,12/8/18,AMZN_US,$23.99 ,$1.59 ,$25.58 
+819,12/7/18,COMPUTER_COMPONENT,Amazon.com,new,JacobsParts,$0.00 ,$6.95 ,1,12/9/18,USPS,$6.95 ,$0.46 ,$7.41 
+820,12/7/18,HOME,Amazon.com,new,Amazon.com,$8.80 ,$5.97 ,1,12/8/18,AMZN_US,$5.97 ,$0.40 ,$6.37 
+821,12/7/18,KITCHEN,Amazon.com,new,Amazon.com,$99.95 ,$69.95 ,1,12/9/18,USPS,$69.95 ,$4.63 ,$74.58 
+822,12/11/18,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$13.76 ,1,12/11/18,,$13.76 ,$0.00 ,$13.76 
+823,12/11/18,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$21.71 ,2,12/12/18,AMZN_US,$43.42 ,$0.00 ,$43.42 
+824,12/21/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Engoloids Medical LLC,$12.58 ,$7.00 ,1,12/26/18,UPS,$7.00 ,$0.46 ,$7.46 
+825,12/22/18,BEAUTY,Amazon.com,new,Amazon.com,$15.98 ,$12.98 ,1,12/23/18,UPS,$12.98 ,$0.86 ,$13.84 
+826,12/22/18,BEAUTY,Amazon.com,new,Amazon.com,$0.00 ,$23.97 ,1,12/23/18,USPS,$23.97 ,$1.59 ,$25.56 
+827,12/27/18,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$16.99 ,2,12/28/18,AMZN_US,$33.98 ,$0.00 ,$33.98 
+828,12/31/18,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$21.71 ,2,1/10/19,AMZN_US,$43.42 ,$0.00 ,$43.42 
+829,1/13/19,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$134.25 ,1,1/13/19,,$134.25 ,$0.00 ,$134.25 
+830,1/14/19,OFFICE_PRODUCTS,Amazon.com,new,V I V O,$14.99 ,$9.99 ,2,1/14/19,AMZN_US,$19.98 ,$1.32 ,$21.30 
+831,1/15/19,AV_FURNITURE,Amazon.com,new,Amazon.com,$720.00 ,$283.86 ,1,1/16/19,UPS,$283.86 ,$18.81 ,$302.67 
+832,1/23/19,COMPUTER_ADD_ON,Amazon.com,new,iVanky,$15.99 ,$14.99 ,1,1/23/19,AMZN_US,$14.99 ,$0.99 ,$15.98 
+833,1/23/19,ELECTRONIC_ADAPTER,Amazon.com,new,Plugable Technologies,$34.99 ,$17.95 ,1,1/23/19,AMZN_US,$17.95 ,$1.19 ,$19.14 
+834,1/23/19,NETWORKING_DEVICE,Amazon.com,new,AnkerDirect,$23.99 ,$17.99 ,1,1/23/19,AMZN_US,$17.99 ,$0.93 ,$18.92 
+835,1/25/19,HEALTH_PERSONAL_CARE,Amazon.com,new,NutriRise,$0.00 ,$15.95 ,1,1/25/19,AMZN_US,$15.95 ,$0.00 ,$15.95 
+836,1/25/19,PHONE_ACCESSORY,Amazon.com,new,Cimo,$19.98 ,$7.98 ,1,1/25/19,AMZN_US,$7.98 ,$0.53 ,$8.51 
+837,2/10/19,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$25.43 ,1,2/11/19,AMZN_US,$25.43 ,$0.00 ,$25.43 
+838,2/10/19,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$21.71 ,2,2/11/19,AMZN_US,$43.42 ,$0.00 ,$43.42 
+839,2/11/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Spring of Health,$57.00 ,$37.43 ,1,2/11/19,AMZN_US,$37.43 ,$0.00 ,$37.43 
+840,2/17/19,KITCHEN,Amazon.com,new,Amazon.com,$89.99 ,$59.00 ,1,2/17/19,AMZN_US,$59.00 ,$3.91 ,$62.91 
+841,2/24/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Engoloids Medical LLC,$12.58 ,$7.00 ,1,2/25/19,UPS,$7.00 ,$0.46 ,$7.46 
+842,2/24/19,INK_OR_TONER,Amazon.com,new,wel-image,$119.90 ,$18.99 ,1,2/25/19,AMZN_US,$18.99 ,$1.26 ,$20.25 
+843,2/24/19,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$0.00 ,$4.36 ,1,2/25/19,AMZN_US,$4.36 ,$0.29 ,$4.65 
+844,2/24/19,CELLULAR_PHONE_CASE,Amazon.com,new,Vaultskin US,$59.99 ,$25.99 ,1,2/25/19,AMZN_US,$25.99 ,$1.55 ,$27.54 
+845,2/24/19,CELLULAR_PHONE_CASE,Amazon.com,new,Vaultskin US,$59.99 ,$25.99 ,1,2/25/19,AMZN_US,$25.99 ,$1.55 ,$27.54 
+846,2/25/19,SHORTS,Amazon.com,new,Amazon.com,$12.99 ,$12.99 ,1,2/26/19,AMZN_US,$12.99 ,$0.00 ,$12.99 
+847,2/25/19,SHORTS,Amazon.com,new,Amazon.com,$18.95 ,$10.00 ,1,2/26/19,AMZN_US,$10.00 ,$0.00 ,$10.00 
+848,2/25/19,SHORTS,Amazon.com,new,Amazon.com,$12.99 ,$12.99 ,1,2/26/19,AMZN_US,$12.99 ,$0.00 ,$12.99 
+849,2/25/19,SHORTS,Amazon.com,new,Amazon.com,$18.95 ,$11.73 ,1,2/26/19,AMZN_US,$11.73 ,$0.00 ,$11.73 
+850,2/25/19,SHORTS,Amazon.com,new,Amazon.com,$11.00 ,$11.00 ,1,2/26/19,AMZN_US,$11.00 ,$0.00 ,$11.00 
+851,2/27/19,CELLULAR_PHONE_CASE,Amazon.com,new,Vaultskin US,$59.99 ,$25.99 ,1,2/27/19,AMZN_US,$25.99 ,$1.72 ,$27.71 
+852,3/4/19,BEAUTY,Amazon.com,new,B2C Industries,$0.00 ,$6.14 ,1,3/5/19,UPS,$6.14 ,$0.41 ,$6.55 
+853,3/4/19,BEAUTY,Amazon.com,new,B2C Industries,$0.00 ,$7.87 ,1,3/5/19,AMZN_US,$7.87 ,$0.52 ,$8.39 
+854,3/5/19,SHORTS,Amazon.com,new,Amazon.com,$18.95 ,$9.99 ,1,3/5/19,AMZN_US,$9.99 ,$0.00 ,$9.99 
+855,3/5/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Dr. Price's Vitamins,$21.00 ,$16.99 ,1,3/5/19,AMZN_US,$16.99 ,$0.00 ,$16.99 
+856,3/19/19,SHORTS,Amazon.com,new,Amazon.com,$18.95 ,$9.99 ,1,3/20/19,AMZN_US,$9.99 ,$0.00 ,$9.99 
+857,3/19/19,KITCHEN,Amazon.com,new,iAesthete Store,$0.00 ,$6.99 ,1,3/20/19,AMZN_US,$6.99 ,$0.46 ,$7.45 
+858,3/23/19,SHORTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$12.69 ,1,3/23/19,USPS,$12.69 ,$0.00 ,$12.69 
+859,3/23/19,SWEATSHIRT,Amazon.com,new,Amazon.com,$34.99 ,$7.02 ,1,3/23/19,USPS,$7.02 ,$0.00 ,$7.02 
+860,3/25/19,GROCERY,Amazon.com,new,Amazon.com,$44.99 ,$24.41 ,2,3/26/19,AMZN_US,$48.82 ,$0.00 ,$48.82 
+861,3/31/19,MECHANICAL_COMPONENTS,Amazon.com,new,Amazon.com,$0.00 ,$12.95 ,1,3/31/19,UPS,$12.95 ,$0.86 ,$13.81 
+862,3/31/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Spotless Lens,$13.97 ,$7.00 ,1,4/1/19,AMZN_US,$7.00 ,$0.46 ,$7.46 
+863,3/31/19,AUTO_ACCESSORY,Amazon.com,new,LittleCoolingStore,$22.99 ,$22.99 ,1,3/31/19,USPS,$22.99 ,$1.52 ,$24.51 
+864,3/31/19,MECHANICAL_COMPONENTS,Amazon.com,new,Amazon.com,$0.00 ,$11.31 ,1,3/31/19,AMZN_US,$11.31 ,$0.75 ,$12.06 
+865,3/31/19,SHORTS,Amazon.com,new,Amazon.com,$11.00 ,$7.70 ,0,,,$0.00 ,$0.00 ,$0.00 
+866,3/31/19,SHORTS,Amazon.com,new,DRSKIN SPORTS USA.,$0.00 ,$12.69 ,2,4/1/19,USPS,$25.38 ,$0.00 ,$25.38 
+867,4/2/19,KEYBOARDS,Amazon.com,new,Amazon.com,$79.99 ,$45.99 ,1,4/3/19,AMZN_US,$45.99 ,$3.05 ,$49.04 
+868,4/4/19,ELECTRONIC_ADAPTER,Amazon.com,new,Plugable Technologies,$34.99 ,$17.95 ,1,4/4/19,AMZN_US,$17.95 ,$1.19 ,$19.14 
+869,4/4/19,TECHNICAL_SPORT_SHOE,Amazon.com,new,Amazon.com,$124.95 ,$124.95 ,1,4/5/19,AMZN_US,$124.95 ,$0.00 ,$124.95 
+870,4/4/19,TECHNICAL_SPORT_SHOE,Amazon.com,new,Amazon.com,$124.95 ,$124.95 ,1,4/4/19,AMZN_US,$124.95 ,$0.00 ,$124.95 
+871,4/5/19,CARRYING_CASE_OR_BAG,Amazon.com,new,Ztotop-US,$0.00 ,$27.99 ,1,4/7/19,AMZN_US,$27.99 ,$1.85 ,$29.84 
+872,4/8/19,HEALTH_PERSONAL_CARE,Amazon.com,new,SLGI,$35.00 ,$30.00 ,1,4/8/19,UPS,$30.00 ,$1.99 ,$31.99 
+873,4/8/19,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Seeml Labs,$42.95 ,$27.95 ,1,4/8/19,AMZN_US,$27.95 ,$1.85 ,$29.80 
+874,4/9/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Engoloids Medical LLC,$12.58 ,$7.00 ,1,4/9/19,UPS,$7.00 ,$0.46 ,$7.46 
+875,4/14/19,CELLULAR_PHONE_CASE,Amazon.com,new,alwayz-on-sale,$0.00 ,$19.95 ,1,4/17/19,AMZN_US,$19.95 ,$1.32 ,$21.27 
+876,4/14/19,CELLULAR_PHONE_CASE,Amazon.com,new,Spigen Inc,$19.99 ,$11.99 ,1,4/14/19,AMZN_US,$11.99 ,$0.79 ,$12.78 
+877,4/14/19,SHORTS,Amazon.com,new,Amazon.com,$10.00 ,$9.99 ,2,4/15/19,AMZN_US,$19.98 ,$0.00 ,$19.98 
+878,4/16/19,COMPUTER_COMPONENT,Amazon.com,new,OUWEI Direct,$0.00 ,$6.99 ,1,4/16/19,AMZN_US,$6.99 ,$0.46 ,$7.45 
+879,4/22/19,BEAUTY,Amazon.com,new,Amazon.com,$9.99 ,$6.49 ,3,4/22/19,AMZN_US,$19.47 ,$1.29 ,$20.76 
+880,4/23/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Engoloids Medical LLC,$12.58 ,$7.00 ,2,4/24/19,UPS,$14.00 ,$0.92 ,$14.92 
+881,5/3/19,ELECTRONIC_CABLE,Amazon.com,new,AnkerDirect,$13.99 ,$10.99 ,1,5/5/19,AMZN_US,$10.99 ,$0.73 ,$11.72 
+882,5/3/19,AUTO_PART,Amazon.com,new,Amazon.com,$15.88 ,$13.18 ,1,5/5/19,AMZN_US,$13.18 ,$0.87 ,$14.05 
+883,5/6/19,HARDWARE,Amazon.com,new,Amazon.com,$6.96 ,$6.96 ,1,5/6/19,USPS,$6.96 ,$0.46 ,$7.42 
+884,5/17/19,WATCH,Amazon.com,new,Amazon.com,$39.95 ,$25.65 ,1,5/18/19,AMZN_US,$25.65 ,$1.70 ,$27.35 
+885,5/17/19,WRITING_INSTRUMENT,Amazon.com,new,Artistry Store,$15.27 ,$8.59 ,1,5/19/19,AMZN_US,$8.59 ,$0.57 ,$9.16 
+886,5/17/19,WRITING_INSTRUMENT,Amazon.com,new,Century_Six,$0.00 ,$6.98 ,1,5/17/19,USPS,$6.98 ,$0.46 ,$7.44 
+887,5/17/19,BOTTLE,Amazon.com,new,Amazon.com,$10.99 ,$9.98 ,1,5/19/19,AMZN_US,$9.98 ,$0.66 ,$10.64 
+888,5/17/19,BOTTLE,Amazon.com,new,Amazon.com,$12.99 ,$11.49 ,1,5/19/19,AMZN_US,$11.49 ,$0.76 ,$12.25 
+889,5/18/19,OFFICE_PRODUCTS,Amazon.com,new,Sooez Official,$0.00 ,$13.97 ,1,5/19/19,AMZN_US,$13.97 ,$0.93 ,$14.90 
+890,5/18/19,OFFICE_PRODUCTS,Amazon.com,new,APLANET,$0.00 ,$15.99 ,1,5/19/19,AMZN_US,$15.99 ,$1.06 ,$17.05 
+891,5/18/19,OFFICE_PRODUCTS,Amazon.com,new,Bargain Paradise Corp,$22.99 ,$9.95 ,1,5/19/19,AMZN_US,$9.95 ,$0.66 ,$10.61 
+892,5/18/19,OFFICE_PRODUCTS,Amazon.com,new,Amazon.com,$8.10 ,$5.90 ,1,5/19/19,AMZN_US,$5.90 ,$0.39 ,$6.29 
+893,5/19/19,WATCH,Amazon.com,new,Amazon.com,$18.95 ,$10.69 ,1,5/19/19,AMZN_US,$10.69 ,$0.71 ,$11.40 
+894,5/21/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$20.97 ,$12.00 ,1,5/21/19,AMZN_US,$12.00 ,$0.80 ,$12.80 
+895,5/22/19,WATCH,Amazon.com,new,Amazon.com,$18.75 ,$18.75 ,1,5/22/19,UPS,$18.75 ,$1.24 ,$19.99 
+896,5/27/19,HEALTH_PERSONAL_CARE,Amazon.com,new,BeautyBreeze,$0.00 ,$7.00 ,2,5/28/19,USPS,$14.00 ,$0.00 ,$14.00 
+897,5/27/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Guruji Store,$0.00 ,$8.22 ,1,5/28/19,AMZN_US,$8.22 ,$0.54 ,$8.76 
+898,5/27/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$21.21 ,$12.56 ,2,5/28/19,AMZN_US,$25.12 ,$0.00 ,$25.12 
+899,5/31/19,HOME_LIGHTING_ACCESSORY,Amazon.com,new,Amazon.com,$39.99 ,$26.40 ,1,5/31/19,AMZN_US,$26.40 ,$1.75 ,$28.15 
+900,5/31/19,ACCESSORY_OR_PART_OR_SUPPLY,Amazon.com,new,Amazon.com,$49.99 ,$34.08 ,1,5/31/19,AMZN_US,$34.08 ,$2.26 ,$36.34 
+901,6/3/19,COMPUTER_COMPONENT,Amazon.com,new,FLEXX International Ltd UK,$0.00 ,$21.90 ,0,,,$0.00 ,$0.00 ,$0.00 
+902,6/3/19,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$199.99 ,$159.99 ,1,6/3/19,AMZN_US,$159.99 ,$10.60 ,$170.59 
+903,6/3/19,COMPUTER_COMPONENT,Amazon.com,new,ComegaCity,$49.95 ,$17.02 ,1,6/3/19,AMZN_US,$17.02 ,$1.13 ,$18.15 
+904,6/3/19,FLASH_MEMORY,Amazon.com,new,Amazon.com,$13.99 ,$9.98 ,1,6/3/19,AMZN_US,$9.98 ,$0.66 ,$10.64 
+905,6/3/19,FLASH_MEMORY,Amazon.com,new,Amazon.com,$22.99 ,$15.99 ,1,6/3/19,AMZN_US,$15.99 ,$1.06 ,$17.05 
+906,6/4/19,COMPUTER_COMPONENT,Amazon.com,new,Coinkosz,$49.95 ,$17.00 ,1,6/4/19,AMZN_US,$17.00 ,$1.13 ,$18.13 
+907,6/4/19,FLASH_MEMORY,Amazon.com,new,Amazon.com,$13.99 ,$9.97 ,1,6/4/19,AMZN_US,$9.97 ,$0.66 ,$10.63 
+908,6/5/19,FLASH_MEMORY,Amazon.com,new,Amazon.com,$13.99 ,$9.98 ,2,6/5/19,AMZN_US,$19.96 ,$1.32 ,$21.28 
+909,6/5/19,BOTTLE,Amazon.com,new,SimpleBreeze,$0.00 ,$15.99 ,1,6/5/19,AMZN_US,$15.99 ,$1.06 ,$17.05 
+910,6/14/19,COMPUTER_ADD_ON,Amazon.com,new,Amazing Camel,$22.00 ,$9.99 ,1,6/14/19,AMZN_US,$9.99 ,$0.66 ,$10.65 
+911,6/14/19,COMPUTER_COMPONENT,Amazon.com,new,Amazon.com,$69.99 ,$65.99 ,1,6/15/19,AMZN_US,$65.99 ,$4.37 ,$70.36 
+912,6/19/19,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$249.99 ,$167.99 ,1,6/19/19,AMZN_US,$167.99 ,$11.13 ,$179.12 
+913,6/21/19,ELECTRONIC_ADAPTER,Amazon.com,new,Amazon.com,$10.99 ,$8.99 ,1,6/22/19,UPS,$8.99 ,$0.60 ,$9.59 
+914,6/21/19,FLASH_MEMORY,Amazon.com,new,Amazon.com,$22.99 ,$16.90 ,1,6/22/19,UPS,$16.90 ,$1.12 ,$18.02 
+915,6/21/19,OFFICE_PRODUCTS,Amazon.com,new,V I V O,$14.99 ,$14.99 ,1,6/22/19,UPS,$14.99 ,$0.99 ,$15.98 
+916,7/5/19,CELLULAR_PHONE_CASE,Amazon.com,new,Tablet2Cases,$49.95 ,$49.95 ,1,7/6/19,AMZN_US,$49.95 ,$3.31 ,$53.26 
+917,7/9/19,CELLULAR_PHONE_CASE,Amazon.com,new,Amazon.com,$14.99 ,$12.99 ,1,7/10/19,AMZN_US,$12.99 ,$0.86 ,$13.85 
+918,7/15/19,CELLULAR_PHONE,Amazon.com,new,Amazon.com,$899.99 ,$649.99 ,1,7/15/19,AMZN_US,$649.99 ,$26.50 ,$676.49 
+919,7/19/19,COMPUTER_DRIVE_OR_STORAGE,Amazon.com,new,Amazon.com,$199.99 ,$159.99 ,1,7/20/19,AMZN_US,$159.99 ,$10.60 ,$170.59 
+920,7/19/19,RAM_MEMORY,Amazon.com,new,Amazon.com,$127.99 ,$127.99 ,1,7/20/19,AMZN_US,$127.99 ,$8.48 ,$136.47 
+921,7/19/19,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$45.99 ,$49.99 ,1,7/20/19,AMZN_US,$49.99 ,$3.31 ,$53.30 
+922,7/24/19,HEADPHONES,Amazon.com,new,Amazon.com,$399.99 ,$129.00 ,1,7/25/19,AMZN_US,$129.00 ,$8.55 ,$137.55 
+923,7/29/19,SECURITY_CAMERA,Amazon.com,new,Amazon.com,$25.98 ,$25.98 ,1,7/30/19,AMZN_US,$25.98 ,$1.72 ,$27.70 
+924,7/30/19,BEAUTY,Amazon.com,new,Amazon.com,$15.98 ,$12.98 ,1,7/31/19,AMZN_US,$12.98 ,$0.60 ,$13.58 
+925,7/31/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Ancient Nutrition,$79.95 ,$76.46 ,1,7/31/19,AMZN_US,$76.46 ,$0.00 ,$76.46 
+926,7/31/19,SMALL_HOME_APPLIANCES,Amazon.com,new,TONGZHU,$57.99 ,$24.99 ,1,7/31/19,AMZN_US,$24.99 ,$1.66 ,$26.65 
+927,7/31/19,ACCESSORY,Amazon.com,new,Amazon.com,$11.99 ,$11.99 ,1,7/31/19,AMZN_US,$11.99 ,$0.00 ,$11.99 
+928,8/5/19,ACCESSORY,Amazon.com,new,BC Wear,$0.00 ,$8.99 ,1,8/6/19,AMZN_US,$8.99 ,$0.00 ,$8.99 
+929,8/5/19,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,Amazon.com,$13.99 ,$13.99 ,1,8/6/19,AMZN_US,$13.99 ,$0.93 ,$14.92 
+930,8/9/19,UNDERWEAR,Amazon.com,new,Amazon.com,$17.99 ,$17.98 ,1,8/10/19,AMZN_US,$17.98 ,$0.00 ,$17.98 
+931,8/9/19,POWER_SUPPLIES_OR_PROTECTION,Amazon.com,new,Amazon.com,$13.99 ,$13.99 ,1,8/10/19,AMZN_US,$13.99 ,$0.93 ,$14.92 
+932,8/20/19,COMPUTER_COMPONENT,Amazon.com,new,frt ECLTD,$0.00 ,$6.99 ,1,8/20/19,AMZN_US,$6.99 ,$0.46 ,$7.45 
+933,8/20/19,UNDERWEAR,Amazon.com,new,Amazon.com,$17.99 ,$17.98 ,1,8/20/19,AMZN_US,$17.98 ,$0.00 ,$17.98 
+934,8/21/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Engoloids Medical LLC,$12.58 ,$6.00 ,2,8/22/19,UPS,$12.00 ,$0.80 ,$12.80 
+935,8/22/19,BEAUTY,Amazon.com,new,Amazon.com,$15.98 ,$12.98 ,1,8/25/19,AMZN_US,$12.98 ,$0.73 ,$13.71 
+936,8/23/19,BATTERY,Amazon.com,new,Amazon.com,$13.99 ,$13.97 ,1,8/25/19,AMZN_US,$13.97 ,$0.93 ,$14.90 
+937,9/3/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.99 ,$13.59 ,1,9/3/19,UPS,$13.59 ,$0.00 ,$13.59 
+938,9/16/19,AUTO_PART,Amazon.com,new,Amazon.com,$0.00 ,$10.10 ,1,9/16/19,AMZN_US,$10.10 ,$0.34 ,$10.44 
+939,9/16/19,AUTO_PART,Amazon.com,new,Amazon.com,$25.76 ,$22.12 ,1,9/16/19,USPS,$22.12 ,$1.47 ,$23.59 
+940,9/16/19,AUTO_PART,Amazon.com,new,Amazon.com,$0.00 ,$18.99 ,1,9/18/19,UPS,$18.99 ,$1.26 ,$20.25 
+941,9/19/19,UNDERWEAR,Amazon.com,new,Amazon.com,$17.99 ,$17.98 ,1,9/19/19,AMZN_US,$17.98 ,$0.00 ,$17.98 
+942,9/19/19,SMALL_HOME_APPLIANCES,Amazon.com,new,TONGZHU,$57.99 ,$24.99 ,1,9/19/19,AMZN_US,$24.99 ,$1.66 ,$26.65 
+943,9/19/19,CELLULAR_PHONE_CASE,Amazon.com,new,Mosa Home,$0.00 ,$6.99 ,1,9/20/19,USPS,$6.99 ,$0.46 ,$7.45 
+944,9/21/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$11.75 ,$8.35 ,1,9/22/19,AMZN_US,$8.35 ,$0.00 ,$8.35 
+945,9/23/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Ancient Nutrition,$79.95 ,$76.46 ,1,9/24/19,AMZN_US,$76.46 ,$0.00 ,$76.46 
+946,9/27/19,NETWORKING_DEVICE,Amazon.com,new,Amazon.com,$45.99 ,$38.99 ,1,9/28/19,AMZN_US,$38.99 ,$2.58 ,$41.57 
+947,9/30/19,ELECTRONIC_ADAPTER,Amazon.com,new,Sintech adapter,$0.00 ,$14.99 ,1,9/30/19,USPS,$14.99 ,$0.99 ,$15.98 
+948,9/30/19,COMPUTER_COMPONENT,Amazon.com,new,Sintech adapter,$39.99 ,$16.99 ,1,9/30/19,USPS,$16.99 ,$1.13 ,$18.12 
+949,10/11/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$9.88 ,$9.88 ,1,10/11/19,AMZN_US,$9.88 ,$0.00 ,$9.88 
+950,10/11/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$10.99 ,$6.74 ,1,10/11/19,AMZN_US,$6.74 ,$0.00 ,$6.74 
+951,10/18/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$32.99 ,$19.45 ,1,10/19/19,USPS,$19.45 ,$0.00 ,$19.45 
+952,10/18/19,HEALTH_PERSONAL_CARE,Amazon.com,new,"Ancestral Supplements, LLC",$38.00 ,$38.00 ,1,10/19/19,USPS,$38.00 ,$0.00 ,$38.00 
+953,10/19/19,SWEATSHIRT,Amazon.com,new,Amazon.com,$24.99 ,$6.99 ,2,10/22/19,AMZN_US,$13.98 ,$0.00 ,$13.98 
+954,11/20/19,CELLULAR_PHONE_CASE,Amazon.com,new,Amazon.com,$49.00 ,$41.74 ,1,11/21/19,AMZN_US,$41.74 ,$2.77 ,$44.51 
+955,11/20/19,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$44.99 ,$24.99 ,1,11/21/19,USPS,$24.99 ,$1.66 ,$26.65 
+956,11/21/19,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$44.99 ,$44.99 ,1,11/21/19,UPS,$44.99 ,$2.98 ,$47.97 
+957,11/25/19,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$44.99 ,$21.88 ,1,11/26/19,USPS,$21.88 ,$1.45 ,$23.33 
+958,11/27/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.50 ,$21.24 ,1,11/27/19,USPS,$21.24 ,$0.00 ,$21.24 
+959,11/30/19,OFFICE_PRODUCTS,Amazon.com,new,chengmenghe,$0.00 ,$5.99 ,1,11/30/19,USPS,$5.99 ,$0.40 ,$6.39 
+960,11/30/19,COMPUTER_COMPONENT,Amazon.com,new,chengmenghe,$0.00 ,$8.59 ,1,12/1/19,UPS,$8.59 ,$0.57 ,$9.16 
+961,12/3/19,OFFICE_PRODUCTS,Amazon.com,new,chengmenghe,$0.00 ,$10.99 ,1,12/4/19,USPS,$10.99 ,$0.73 ,$11.72 
+962,12/3/19,OFFICE_PRODUCTS,Amazon.com,new,chengmenghe,$0.00 ,$5.99 ,1,12/4/19,USPS,$5.99 ,$0.40 ,$6.39 
+963,12/3/19,OFFICE_PRODUCTS,Amazon.com,new,chengmenghe,$0.00 ,$5.99 ,1,12/4/19,AMZN_US,$5.99 ,$0.40 ,$6.39 
+964,12/3/19,OFFICE_PRODUCTS,Amazon.com,new,Change Tree,$44.99 ,$26.99 ,1,12/4/19,USPS,$26.99 ,$1.79 ,$28.78 
+965,12/5/19,TEA,Amazon.com,new,Amazon.com,$20.99 ,$20.99 ,1,12/7/19,AMZN_US,$20.99 ,$0.00 ,$20.99 
+966,12/10/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.99 ,$15.99 ,1,12/10/19,USPS,$15.99 ,$0.00 ,$15.99 
+967,12/10/19,COMPUTER_COMPONENT,Amazon.com,new,XJS,$0.00 ,$18.99 ,1,12/10/19,UPS,$18.99 ,$1.01 ,$20.00 
+968,12/13/19,WIRELESS_ACCESSORY,Amazon.com,new,Ipow Online,$0.00 ,$18.99 ,1,12/13/19,USPS,$18.99 ,$1.26 ,$20.25 
+969,12/13/19,WIRELESS_ACCESSORY,Amazon.com,new,VICSEED,$39.99 ,$21.99 ,1,12/13/19,USPS,$21.99 ,$1.46 ,$23.45 
+970,12/14/19,WIRELESS_ACCESSORY,Amazon.com,new,Amazon.com,$44.99 ,$21.88 ,1,12/15/19,USPS,$21.88 ,$1.45 ,$23.33 
+971,12/18/19,CELLULAR_PHONE_CASE,Amazon.com,new,MKOAWA,$19.99 ,$13.99 ,1,12/19/19,AMZN_US,$13.99 ,$0.93 ,$14.92 
+972,12/18/19,CELLULAR_PHONE_CASE,Amazon.com,new,TORRAS¬Æ,$27.00 ,$12.99 ,1,12/19/19,AMZN_US,$12.99 ,$0.86 ,$13.85 
+973,12/19/19,ABIS_GIFT_CARD,Amazon.com,new,Amazon.com,$50.00 ,$200.00 ,1,12/19/19,,$200.00 ,$0.00 ,$200.00 
+974,12/24/19,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.99 ,$13.59 ,2,12/26/19,AMZN_US,$27.18 ,$0.00 ,$27.18 
+975,12/27/19,BEAUTY,Amazon.com,new,Amazon.com,$0.00 ,$6.54 ,1,1/9/20,AMZN_US,$6.54 ,$0.43 ,$6.97 
+976,1/1/20,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$12.13 ,$11.98 ,2,1/3/20,AMZN_US,$23.96 ,$1.58 ,$25.54 
+977,1/1/20,HEALTH_PERSONAL_CARE,Amazon.com,new,Amazon.com,$24.50 ,$8.87 ,1,1/2/20,USPS,$8.87 ,$0.00 ,$8.87 
+978,1/1/20,HEALTH_PERSONAL_CARE,Amazon.com,new,MJ's Herbals,$0.00 ,$12.99 ,1,1/2/20,USPS,$12.99 ,$0.77 ,$13.76 
