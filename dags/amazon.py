@@ -135,15 +135,22 @@ t4 = PostgresOperator(
 
 
 path2 = os.path.join(os.path.dirname(__file__),'../amazon_visualization.ipynb')
-path3 = os.path.join(os.path.dirname(__file__),'../amazon_visualization{{execution_date}}.ipynb')
+path3 = os.path.join(os.path.dirname(__file__),'../amazon_visualization{{ execution_date }}.ipynb')
 
-t5 = PapermillOperator(
+"""t5 = PapermillOperator(
     task_id = "run_notebook",
     input_nb = path2,
     output_nb = path3,
     parameters = {"msgs": "Ran from Airflow at {{ execution_date }}!"},
     dag = dag,
-)
+)"""
+
+t5 = BashOperator(
+	task_id = 'run_notebook',
+	#bash_command = 'jupyter nbconvert --to notebook --execute {path2} --output amazon_visualization{{ ds }}.ipynb',
+	bash_command = 'jupyter nbconvert --to notebook --execute {}'.format(path2) + ' --output amazon_visualization{{ ds }}.ipynb',
+	dag = dag,
+	)
 
 
 t1 >> t2 >> t3 >> t4 >> t5
