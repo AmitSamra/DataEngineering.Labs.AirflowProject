@@ -9,6 +9,7 @@ import os
 from airflow.operators.postgres_operator import PostgresOperator
 import numpy as np
 import pandas as pd
+from airflow.operators.papermill_operator import PapermillOperator
 
 
 default_args = {
@@ -26,6 +27,7 @@ dag = DAG(
 	description = 'amazon',
 	#schedule_interval = timedelta(hours=1),
 	catchup = False,
+	max_active_runs = 1,
 	)
 
 
@@ -132,4 +134,34 @@ t4 = PostgresOperator(
 	)
 
 
-t1 >> t2 >> t3 >> t4
+path2 = os.path.join(os.path.dirname(__file__),'../amazon_visualization.ipynb')
+path3 = os.path.join(os.path.dirname(__file__),'../amazon_visualization{{execution_date}}.ipynb')
+
+t5 = PapermillOperator(
+    task_id = "run_notebook",
+    input_nb = path2,
+    output_nb = path3,
+    parameters = {"msgs": "Ran from Airflow at {{ execution_date }}!"},
+    dag = dag,
+)
+
+
+t1 >> t2 >> t3 >> t4 >> t5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
