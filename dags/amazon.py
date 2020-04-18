@@ -10,6 +10,11 @@ from airflow.operators.postgres_operator import PostgresOperator
 import numpy as np
 import pandas as pd
 from airflow.operators.papermill_operator import PapermillOperator
+from dotenv import load_dotenv
+
+
+dotenv_local_path = os.path.join(os.path.dirname(__file__), '.env')
+load_dotenv(dotenv_path=dotenv_local_path, verbose=True) 
 
 
 default_args = {
@@ -137,13 +142,6 @@ t4 = PostgresOperator(
 path2 = os.path.join(os.path.dirname(__file__),'../amazon_visualization.ipynb')
 path3 = os.path.join(os.path.dirname(__file__),'../amazon_visualization{{ execution_date }}.ipynb')
 
-"""t5 = PapermillOperator(
-    task_id = "run_notebook",
-    input_nb = path2,
-    output_nb = path3,
-    parameters = {"msgs": "Ran from Airflow at {{ execution_date }}!"},
-    dag = dag,
-)"""
 
 t5 = BashOperator(
 	task_id = 'run_notebook',
