@@ -89,11 +89,11 @@ However, orders with the highest value were shipped with either FedEx or UPS.
 
 One of the best things about Python is that we can actually source our data directly from SQL. The following shows a dataframe that I both created and sourced by using SQLAlchemy. 
 
-![SQL_dataframe](imgages/SQL_dataframe.png)
+![SQL_dataframe](images/SQL_dataframe.png)
 
 SQLAlchemy can be used to directly query data from a SQL database. The queries can then be utilized inside Python. 
 
-![SQL_PurchasesByYear](imgages/SQL_PurchasesByYear.png)
+![SQL_PurchasesByYear](images/SQL_PurchasesByYear.png)
 
 This concludes my presentation. Thank you! 
 
