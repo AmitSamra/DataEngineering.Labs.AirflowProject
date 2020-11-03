@@ -7,7 +7,7 @@ Amazon.com is the largest online retailer in the world. One of the best things a
 ![matplotlib_logo](images/matplotlib_logo.png)  
 ![sqlalchemy_logo](images/sqlalchemy_logo.png)  
 ![sqlalchemy_logo](images/sqlalchemy_logo.png)  
-![airflow_logo](imaes/pipeline.png)
+![airflow_logo](images/pipeline.png)
 
 # Table of Contents
 
