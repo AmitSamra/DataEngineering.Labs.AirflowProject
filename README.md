@@ -9,6 +9,8 @@ Amazon.com is the largest online retailer in the world. One of the best things a
 ![sqlalchemy_logo](images/sqlalchemy_logo.png)  
 ![airflow_logo](images/pipeline.png)
 
+This repository includes a [JupyterNotebook](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/AmazonOrderHistory.ipynb), which contains all of the code used to generate the following report. 
+
 # Table of Contents
 
 1. [Data Processing](https://github.com/AmitSamra/DataEngineering.Labs.AirflowProject#1-data-processing)
